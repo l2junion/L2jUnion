@@ -1,0 +1,7 @@
+OPTIONS : a number : register a server ID, if available and existing on list.
+          list : get a list of IDs. A '*' means the id is already used.
+          clean : unregister a specified gameserver.
+          cleanall : unregister all gameservers.
+          exit : exit the program.
+
+Your choice? 

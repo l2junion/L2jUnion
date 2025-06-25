@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dualBoxConfig>
+    <settings>
+        <maxConnections>1</maxConnections>
+        <disconnectDelay>5000</disconnectDelay>
+        <kickMessage>Error: Solo 1 cuenta por IP permitida</kickMessage>
+    </settings>
+    
+    <vipPlayers>
+        <player ip="127.0.0.1" maxConnections="2"/>
+        <player ip="10.0.0.15" maxConnections="5"/>
+    </vipPlayers>
+</dualBoxConfig>

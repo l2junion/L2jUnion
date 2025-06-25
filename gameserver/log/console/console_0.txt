@@ -1,0 +1,43 @@
+[25-06-2025 01:06:30]	INFO	-------------------------------------------------------------------=[ Config ]
+[25-06-2025 01:06:30]	INFO	Loading gameserver configuration files.
+[25-06-2025 01:06:31]	INFO	Loaded 9176 icons.
+[25-06-2025 01:06:31]	INFO	------------------------------------------------------------------=[ Poolers ]
+[25-06-2025 01:06:32]	INFO	Initializing ConnectionPool.
+[25-06-2025 01:06:32]	INFO	Initializing ThreadPool.
+[25-06-2025 01:06:32]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[25-06-2025 01:06:32]	INFO	Updated characters online status.
+[25-06-2025 01:06:32]	INFO	Cleaned 0 elements from database.
+[25-06-2025 01:06:32]	INFO	Cleaned 0 expired timestamps from database.
+[25-06-2025 01:06:32]	INFO	Initializing 102912 objectIds pool, with 8 used ids.
+[25-06-2025 01:06:32]	INFO	--------------------------------------------------------------------=[ Cache ]
+[25-06-2025 01:06:32]	INFO	Loaded 0 crests.
+[25-06-2025 01:06:32]	INFO	--------------------------------------------------------------------=[ World ]
+[25-06-2025 01:06:32]	INFO	World grid (176 by 256) is now set up.
+[25-06-2025 01:06:32]	INFO	Loaded 0 announcements.
+[25-06-2025 01:06:32]	INFO	Loaded 3 server variables.
+[25-06-2025 01:06:32]	INFO	-------------------------------------------------------------------=[ Skills ]
+[25-06-2025 01:06:38]	INFO	SkillTable: Loaded 29742 skills.
+[25-06-2025 01:06:38]	INFO	Loaded 117 fishing skills.
+[25-06-2025 01:06:38]	INFO	Loaded 64 clan skills.
+[25-06-2025 01:06:38]	INFO	Loaded 14550 enchant skills.
+[25-06-2025 01:06:38]	INFO	--------------------------------------------------------------------=[ Items ]
+[25-06-2025 01:06:39]	INFO	Loaded items.
+[25-06-2025 01:06:39]	INFO	Loaded 13 summon items.
+[25-06-2025 01:06:40]	INFO	Loaded 180 hennas.
+[25-06-2025 01:06:40]	INFO	Loaded 687 buyLists.
+[25-06-2025 01:06:40]	INFO	Loaded 85 multisell.
+[25-06-2025 01:06:40]	INFO	Loaded 871 recipes.
+[25-06-2025 01:06:40]	INFO	Loaded 51 armor sets.
+[25-06-2025 01:06:40]	INFO	Loaded 270 fish.
+[25-06-2025 01:06:40]	INFO	Loaded 334 spellbooks.
+[25-06-2025 01:06:40]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[25-06-2025 01:06:40]	INFO	Loaded 4 sets of augmentation stats.
+[25-06-2025 01:06:40]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[25-06-2025 01:06:40]	INFO	Loaded 2 cursed weapons.
+[25-06-2025 01:06:40]	INFO	-------------------------------------------------------------------=[ Admins ]
+[25-06-2025 01:06:40]	INFO	Loaded 10 access levels.
+[25-06-2025 01:06:40]	INFO	Loaded 95 admin command rights.
+[25-06-2025 01:06:40]	INFO	Loaded 0 bookmarks.
+[25-06-2025 01:06:40]	INFO	Loaded 0 petitions.
+[25-06-2025 01:06:40]	INFO	Loaded 2 NPC auras.
+[25-06-2025 01:06:40]	INFO	---------------------------------------------------------------=[ Characters ]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <!-- NPCs con aura azul -->
+    <npc id="30080" aura="1" />
+    <npc id="30990" aura="2" />
+</list>
