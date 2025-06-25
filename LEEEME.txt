@@ -1,0 +1,1 @@
+SI  te sale como virus el iniciando_server.exe es porque tiene el registro de servidor y al ser un regristro el anti.viru lo toma como amenaza !! de igual manera se actualizara para que ya no pase!! gracias
