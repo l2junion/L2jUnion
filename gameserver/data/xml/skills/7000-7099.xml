@@ -108,7 +108,7 @@
 		<set name="operateType" val="PASSIVE" />
 	</skill>
 	<skill id="7029" levels="4" name="Super Haste" >
-		<table name="#amount"> 1.25 1.5 1.75 8 </table>
+		<table name="#amount"> 1.25 1.5 1.75 2 </table>
 		<table name="#reuse"> 0.75 0.50 0.25 0.01 </table>
 		<set name="magicLvl" val="1"/>
 		<set name="skillType" val="CONT"/>
@@ -117,7 +117,6 @@
 		<for>
 			<effect count="0x7fffffff" name="ManaDamOverTime" time="10" val="0">
 				<mul stat="pAtkSpd" val="#amount" />
-				<add stat="pAtk" val="#amount" />
 				<mul stat="runSpd" val="#amount" />
 				<mul stat="mAtkSpd" val="#amount" />
 				<mul stat="pReuse" val="#reuse" />

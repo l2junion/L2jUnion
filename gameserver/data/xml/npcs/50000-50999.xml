@@ -159,10 +159,10 @@
 			<skill id="4416" level="18" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50003" idTemplate="31228" name="Hasha" title="Class Manager" alias="class_manager">
+	<npc id="50005" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
-		<set name="type" val="CassinoNpc"/>
+		<set name="type" val="L2ColorManager"/>
 		<set name="level" val="70"/>
 		<set name="radius" val="9.0"/>
 		<set name="height" val="16.0"/>

@@ -9,13 +9,13 @@ set mysqlBinPath=C:\xampp\mysql\bin
 REM LOGINSERVER
 set LSUSER=root
 set LSPASS=
-set LSDB=L2jUnion
+set LSDB=probando
 set LSHOST=localhost
 
 REM GAMESERVER
 set GSUSER=root
 set GSPASS=
-set GSDB=L2jUnion
+set LSDB=probando
 set GSHOST=localhost
 REM ############################################
 
@@ -23,7 +23,7 @@ set mysqldumpPath="%mysqlBinPath%\mysqldump"
 set mysqlPath="%mysqlBinPath%\mysql"
 
 echo.
-echo.                        L2jUnion database installation
+echo.                        aCis database installation
 echo.                        __________________________
 echo.
 echo OPTIONS : (f) full install, it will destroy all (need validation).

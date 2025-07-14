@@ -162,5 +162,6 @@
 <!-- mods mios-->
 	<aCar name="admin_removevip" accessLevel="1" params="" desc="te quita vip."/>
 	<aCar name="admin_setvip" accessLevel="1" params="" desc="te da vip."/>
-	
+	// vaciar inventario
+	<aCar name="admin_limpiar_inventario" accessLevel="1" params="" desc="se saco todo"/>
 </list>
