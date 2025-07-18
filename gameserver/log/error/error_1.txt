@@ -1,0 +1,32 @@
+jul 18, 2025 2:46:48 A. M. net.sf.l2j.gameserver.model.item.instance.ItemInstance restoreFromDb
+GRAVE: Couldn't restore an owned item.
+java.lang.NullPointerException: Cannot invoke "net.sf.l2j.gameserver.model.item.kind.Item.getName()" because "this._item" is null
+	at net.sf.l2j.gameserver.model.item.instance.ItemInstance.<init>(ItemInstance.java:123)
+	at net.sf.l2j.gameserver.model.item.instance.ItemInstance.restoreFromDb(ItemInstance.java:722)
+	at net.sf.l2j.gameserver.model.itemcontainer.Inventory.restore(Inventory.java:122)
+	at net.sf.l2j.gameserver.model.itemcontainer.PcInventory.restore(PcInventory.java:507)
+	at net.sf.l2j.gameserver.model.actor.Player.<init>(Player.java:505)
+	at net.sf.l2j.gameserver.model.actor.Player.restore(Player.java:4092)
+	at net.sf.l2j.gameserver.network.GameClient.loadCharFromDisk(GameClient.java:541)
+	at net.sf.l2j.gameserver.network.clientpackets.RequestGameStart.runImpl(RequestGameStart.java:45)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:52)
+	at net.sf.l2j.gameserver.network.GameClient.run(GameClient.java:140)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+
+jul 18, 2025 2:46:48 A. M. net.sf.l2j.gameserver.model.item.instance.ItemInstance restoreFromDb
+GRAVE: Couldn't restore an owned item.
+java.lang.NullPointerException: Cannot invoke "net.sf.l2j.gameserver.model.item.kind.Item.getName()" because "this._item" is null
+	at net.sf.l2j.gameserver.model.item.instance.ItemInstance.<init>(ItemInstance.java:123)
+	at net.sf.l2j.gameserver.model.item.instance.ItemInstance.restoreFromDb(ItemInstance.java:722)
+	at net.sf.l2j.gameserver.model.itemcontainer.Inventory.restore(Inventory.java:122)
+	at net.sf.l2j.gameserver.model.itemcontainer.PcInventory.restore(PcInventory.java:507)
+	at net.sf.l2j.gameserver.model.actor.Player.<init>(Player.java:505)
+	at net.sf.l2j.gameserver.model.actor.Player.restore(Player.java:4092)
+	at net.sf.l2j.gameserver.network.GameClient.loadCharFromDisk(GameClient.java:541)
+	at net.sf.l2j.gameserver.network.clientpackets.RequestGameStart.runImpl(RequestGameStart.java:45)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:52)
+	at net.sf.l2j.gameserver.network.GameClient.run(GameClient.java:140)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+

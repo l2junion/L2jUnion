@@ -53,7 +53,9 @@
 
 	<!-- ENCHANT -->
 	<aCar name="admin_enchant" accessLevel="7" params="slot enchant" desc="Enchant your target's item slot."/>
-
+<!-- Comandos de Encantamiento -->
+	<aCar name="admin_enchant" accessLevel="1" params="" desc="Abre la interfaz de encantamiento de items."/>
+	
 	<!-- FIND -->
 	<aCar name="admin_find" accessLevel="7" params="[account|dualbox|ip|item|npc|player]" desc="Find chosen entity based on account/name/ip."/>
 
