@@ -8,7 +8,7 @@ FakePcsTable: Loaded 1 NPC to PC templates.
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 31 used ids.
+Initializing 102912 objectIds pool, with 61 used ids.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -21,3 +21,303 @@ Loaded 117 fishing skills.
 Loaded 64 clan skills.
 Loaded 14550 enchant skills.
 --------------------------------------------------------------------=[ Items ]
+Loaded items.
+Loaded 13 summon items.
+Loaded 180 hennas.
+Loaded 687 buyLists.
+Loaded 85 multisell.
+Loaded 871 recipes.
+Loaded 51 armor sets.
+Loaded 270 fish.
+Loaded 334 spellbooks.
+Loaded 39 Soul Crystals data and 124 NPCs data.
+Loaded 4 sets of augmentation stats.
+Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+Loaded 2 cursed weapons.
+Loaded 9176 icons.
+-------------------------------------------------------------------=[ Admins ]
+Loaded 10 access levels.
+Loaded 111 admin command rights.
+Loaded 0 bookmarks.
+Loaded 0 petitions.
+---------------------------------------------------------------=[ Characters ]
+Loaded 89 player classes templates.
+Loaded 5 player infos.
+Loaded 81 player levels.
+Loaded 0 RaidPoints entries.
+Loaded 29 healSps entries.
+Loaded 92 restart areas and 36 restart points.
+---------------------------------------------------------=[ Community server ]
+--------------------------------------------------------------------=[ Clans ]
+Loaded 0 clans.
+----------------------------------------------------=[ Geodata & Pathfinding ]
+Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
+Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
+Loaded 139 L2J region files.
+--------------------------------------------------------------------=[ Zones ]
+Loaded 23 zones classes and total 1016 zones.
+--------------------------------------------------------------------=[ Doors ]
+Loaded 547 doors templates.
+-----------------------------------------------------=[ Castles & Clan Halls ]
+Loaded 9 castles.
+Loaded 73 clan halls decos.
+Loaded 44 clan halls and 6 siegable clan halls.
+Loaded 3 evolution skills
+------------------------------------------------------------=[ Task Managers ]
+Restored 0 items on ground.
+--------------------------------------------------------------=[ Seven Signs ]
+Currently on Seal Validation period.
+The Seal of Avarice remains unclaimed.
+The Seal of Gnosis remains unclaimed.
+The Seal of Strife remains unclaimed.
+The Seven Signs competition ended with a tie last week.
+Next Seven Signs period change set to Mon Jul 28 18:00:00 GMT-03:00 2025.
+Next Seven Signs period begins in 3 days, 1 hours and 58 mins.
+Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
+------------------------------------------------------------=[ Manor Manager ]
+Loaded 121 manor areas.
+Loaded 246 seeds.
+---------------------------------------------------------------------=[ NPCs ]
+Loaded 60 available buffs.
+Loaded 6501 NPC templates.
+Loaded 132 walking routes.
+Loaded 29 static objects.
+Loaded 204 spawn data.
+Loaded 9709 territories.
+Loaded 10075 NPC makers.
+Loaded 14 newbie buffs.
+Loaded 74 instant teleport positions.
+Loaded 117 teleport positions.
+Loaded 13 observer groups and 25 spawns.
+----------------------------------------------------------------=[ TvT Event ]
+TvTEventEngine[TvTManager.TvTManager()]: Engine is disabled.
+-------------------------------------------------------=[ Olympiads & Heroes ]
+Loaded 22 stadiums.
+Loaded 0 nobles.
+Loaded 0 heroes and 0 all time heroes.
+---------------------------------------------------------=[ Quests & Scripts ]
+Bandit Stronghold siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Devastated Castle siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Fortress of Resistance siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Fortress of the Dead siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Rainbow Springs Chateau siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Wild Beast Reserve siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Loaded 857 regular scripts and 6 scheduled scripts.
+Loaded 5 boat itineraries.
+-------------------------------------------------------------------=[ Events ]
+Loaded 42 Derby Track records, currently on race #43.
+Loaded 0 couples.
+-------------------------------------------------------------------=[ Spawns ]
+Spawned 30687 NPCs.
+Spawned 462 "extra_mob" NPCs.
+Spawned 18 "18age" NPCs.
+Spawned 12 "start_weapon" NPCs.
+Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+-----------------------------------------------------------------=[ Handlers ]
+Loaded 110 admin command handlers.
+Loaded 13 chat handlers.
+Loaded 26 item handlers.
+Loaded 74 skill handlers.
+Loaded 25 target handlers.
+Loaded 16 voiced command handlers.
+Loaded 15 user command handlers.
+Loaded 16 voiced command handlers.
+-------------------------------------------------------------------=[ System ]
+Server crashed on last session!
+Gameserver has started, used memory: 1343 / 2048 Mo.
+Maximum allowed players: 100.
+--------------------------------------------------------------------=[ Login ]
+Connecting to login on 127.0.0.1:9014.
+Registered as server: [1] Bartz.
+versionfreee has logged in with Master access level.
+TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
+Could not parse file: .\data\xml\enchant_scrolls.xml 
+java.io.FileNotFoundException: C:\Users\eltet\Desktop\trabajo l2junion\Publico\L2jUnion\gameserver\.\data\xml\enchant_scrolls.xml (El sistema no puede encontrar el archivo especificado)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:185)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:139)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:109)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:83)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:185)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLEntityManager.setupCurrentEntity(XMLEntityManager.java:666)
+	at java.xml/com.sun.org.apache.xerces.internal.impl.XMLVersionDetector.determineDocVersion(XMLVersionDetector.java:150)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:862)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:826)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:134)
+	at java.xml/com.sun.org.apache.xerces.internal.parsers.DOMParser.parse(DOMParser.java:247)
+	at java.xml/com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:342)
+	at java.xml/javax.xml.parsers.DocumentBuilder.parse(DocumentBuilder.java:206)
+	at net.sf.l2j.commons.data.xml.IXmlReader.parseFile(IXmlReader.java:95)
+	at net.sf.l2j.commons.data.xml.IXmlReader.parseFile(IXmlReader.java:53)
+	at net.sf.l2j.gameserver.model.EnchantScrollData.load(EnchantScrollData.java:39)
+	at net.sf.l2j.gameserver.model.EnchantScrollData.<init>(EnchantScrollData.java:33)
+	at net.sf.l2j.gameserver.model.EnchantScrollData$SingletonHolder.<clinit>(EnchantScrollData.java:122)
+	at net.sf.l2j.gameserver.model.EnchantScrollData.getInstance(EnchantScrollData.java:117)
+	at net.sf.l2j.gameserver.network.clientpackets.RequestEnchantItem.runImpl(RequestEnchantItem.java:63)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:52)
+	at net.sf.l2j.gameserver.network.GameClient.run(GameClient.java:140)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+Loaded 0 enchant scrolls.
+GM: versionfreee [objId=268473469] issued restarting process in 1 seconds.
+-------------------------------------------------=[ Under restarting process ]
+Players have been disconnected.
+SevenSignsManager has been saved.
+Running scripts have been stopped.
+Saved boss zones data.
+ZoneManager has been saved.
+Spawn data has been saved.
+SpawnManager has been saved.
+Olympiad has been saved.
+HeroManager has been saved.
+CastleManorManager has been saved.
+FishingChampionshipManager has been saved.
+BufferManager has been saved.
+PetitionManager has been saved.
+ClanHallManager has been saved.
+RelationManager has been saved.
+CoupleManager has been saved.
+ItemInstanceTaskManager has been saved.
+No items on ground to save.
+ItemsOnGroundTaskManager has been saved.
+ThreadPool: Shutting down.
+
+
+=== SERVER RESTARTED ===
+
+-------------------------------------------------------------------=[ Config ]
+Loading gameserver configuration files.
+------------------------------------------------------------------=[ Poolers ]
+Initializing ConnectionPool.
+Initializing ThreadPool.
+FakePcsTable: Loaded 1 NPC to PC templates.
+----------------------------------------------------------------=[ IdFactory ]
+Updated characters online status.
+Cleaned 0 elements from database.
+Cleaned 0 expired timestamps from database.
+Initializing 102912 objectIds pool, with 61 used ids.
+--------------------------------------------------------------------=[ Cache ]
+Loaded 0 crests.
+--------------------------------------------------------------------=[ World ]
+World grid (176 by 256) is now set up.
+Loaded 0 announcements.
+Loaded 3 server variables.
+-------------------------------------------------------------------=[ Skills ]
+SkillTable: Loaded 29742 skills.
+Loaded 117 fishing skills.
+Loaded 64 clan skills.
+Loaded 14550 enchant skills.
+--------------------------------------------------------------------=[ Items ]
+Loaded items.
+Loaded 13 summon items.
+Loaded 180 hennas.
+Loaded 687 buyLists.
+Loaded 85 multisell.
+Loaded 871 recipes.
+Loaded 51 armor sets.
+Loaded 270 fish.
+Loaded 334 spellbooks.
+Loaded 39 Soul Crystals data and 124 NPCs data.
+Loaded 4 sets of augmentation stats.
+Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+Loaded 2 cursed weapons.
+Loaded 9176 icons.
+-------------------------------------------------------------------=[ Admins ]
+Loaded 10 access levels.
+Loaded 111 admin command rights.
+Loaded 0 bookmarks.
+Loaded 0 petitions.
+---------------------------------------------------------------=[ Characters ]
+Loaded 89 player classes templates.
+Loaded 5 player infos.
+Loaded 81 player levels.
+Loaded 0 RaidPoints entries.
+Loaded 29 healSps entries.
+Loaded 92 restart areas and 36 restart points.
+---------------------------------------------------------=[ Community server ]
+--------------------------------------------------------------------=[ Clans ]
+Loaded 0 clans.
+----------------------------------------------------=[ Geodata & Pathfinding ]
+Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
+Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
+Loaded 139 L2J region files.
+--------------------------------------------------------------------=[ Zones ]
+Loaded 23 zones classes and total 1016 zones.
+--------------------------------------------------------------------=[ Doors ]
+Loaded 547 doors templates.
+-----------------------------------------------------=[ Castles & Clan Halls ]
+Loaded 9 castles.
+Loaded 73 clan halls decos.
+Loaded 44 clan halls and 6 siegable clan halls.
+Loaded 3 evolution skills
+------------------------------------------------------------=[ Task Managers ]
+Restored 0 items on ground.
+--------------------------------------------------------------=[ Seven Signs ]
+Currently on Seal Validation period.
+The Seal of Avarice remains unclaimed.
+The Seal of Gnosis remains unclaimed.
+The Seal of Strife remains unclaimed.
+The Seven Signs competition ended with a tie last week.
+Next Seven Signs period change set to Mon Jul 28 18:00:00 GMT-03:00 2025.
+Next Seven Signs period begins in 3 days, 1 hours and 53 mins.
+Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
+------------------------------------------------------------=[ Manor Manager ]
+Loaded 121 manor areas.
+Loaded 246 seeds.
+---------------------------------------------------------------------=[ NPCs ]
+Loaded 60 available buffs.
+Loaded 6501 NPC templates.
+Loaded 132 walking routes.
+Loaded 29 static objects.
+Loaded 204 spawn data.
+Loaded 9709 territories.
+Loaded 10075 NPC makers.
+Loaded 14 newbie buffs.
+Loaded 74 instant teleport positions.
+Loaded 117 teleport positions.
+Loaded 13 observer groups and 25 spawns.
+----------------------------------------------------------------=[ TvT Event ]
+TvTEventEngine[TvTManager.TvTManager()]: Engine is disabled.
+-------------------------------------------------------=[ Olympiads & Heroes ]
+Loaded 22 stadiums.
+Loaded 0 nobles.
+Loaded 0 heroes and 0 all time heroes.
+---------------------------------------------------------=[ Quests & Scripts ]
+Bandit Stronghold siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Devastated Castle siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Fortress of Resistance siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Fortress of the Dead siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Rainbow Springs Chateau siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Wild Beast Reserve siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Loaded 857 regular scripts and 6 scheduled scripts.
+Loaded 5 boat itineraries.
+-------------------------------------------------------------------=[ Events ]
+Loaded 42 Derby Track records, currently on race #43.
+Loaded 0 couples.
+-------------------------------------------------------------------=[ Spawns ]
+Territory name "gludio01_qm1821_02", wrong Z 9, wrong geo 1
+Spawned 30794 NPCs.
+Spawned 462 "extra_mob" NPCs.
+Spawned 18 "18age" NPCs.
+Spawned 12 "start_weapon" NPCs.
+Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+-----------------------------------------------------------------=[ Handlers ]
+Loaded 110 admin command handlers.
+Loaded 13 chat handlers.
+Loaded 26 item handlers.
+Loaded 74 skill handlers.
+Loaded 25 target handlers.
+Loaded 16 voiced command handlers.
+Loaded 15 user command handlers.
+Loaded 16 voiced command handlers.
+-------------------------------------------------------------------=[ System ]
+Gameserver has started, used memory: 1315 / 2048 Mo.
+Maximum allowed players: 100.
+--------------------------------------------------------------------=[ Login ]
+Connecting to login on 127.0.0.1:9014.
+Registered as server: [1] Bartz.
+versionfreee has logged in with Master access level.
+TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
+Loaded 14 enchant scrolls.

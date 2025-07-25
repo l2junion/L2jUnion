@@ -160,7 +160,21 @@
 
 	<!-- ZONE -->
 	<aCar name="admin_zone" accessLevel="7" params="[show - all|clear|id]" desc="Show the zone panel, or the zone visually."/>
-
+	<!-- Comandos por slot -->
+	<aCar name="admin_seteh" accessLevel="1" params="[nivel]" desc="Encanta el casco del objetivo."/>
+	<aCar name="admin_setec" accessLevel="1" params="[nivel]" desc="Encanta la pechera del objetivo."/>
+	<aCar name="admin_seteg" accessLevel="1" params="[nivel]" desc="Encanta los guantes del objetivo."/>
+	<aCar name="admin_setel" accessLevel="1" params="[nivel]" desc="Encanta las piernas del objetivo."/>
+	<aCar name="admin_seteb" accessLevel="1" params="[nivel]" desc="Encanta las botas del objetivo."/>
+	<aCar name="admin_setew" accessLevel="1" params="[nivel]" desc="Encanta el arma (mano derecha) del objetivo."/>
+	<aCar name="admin_setes" accessLevel="1" params="[nivel]" desc="Encanta escudo/arma izquierda del objetivo."/>
+	<aCar name="admin_setle" accessLevel="1" params="[nivel]" desc="Encanta arete izquierdo del objetivo."/>
+	<aCar name="admin_setre" accessLevel="1" params="[nivel]" desc="Encanta arete derecho del objetivo."/>
+	<aCar name="admin_setlf" accessLevel="1" params="[nivel]" desc="Encanta anillo izquierdo del objetivo."/>
+	<aCar name="admin_setrf" accessLevel="1" params="[nivel]" desc="Encanta anillo derecho del objetivo."/>
+	<aCar name="admin_seten" accessLevel="1" params="[nivel]" desc="Encanta collar del objetivo."/>
+	<aCar name="admin_setun" accessLevel="1" params="[nivel]" desc="Encanta ropa interior del objetivo."/>
+	<aCar name="admin_setba" accessLevel="1" params="[nivel]" desc="Encanta capa del objetivo."/>
 <!-- mods mios-->
 	<aCar name="admin_removevip" accessLevel="1" params="" desc="te quita vip."/>
 	<aCar name="admin_setvip" accessLevel="1" params="" desc="te da vip."/>

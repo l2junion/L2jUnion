@@ -1,8 +1,21 @@
-<html><body>Adventure Guildsman:<br>
-The world is a dark and scary place, my friend! If everyone would only follow the teachings of Eve and Einhasad, this chaos would finally end!<br>
-What's needed is brave warrior like you stand up for the down-trodden, to restore peace and justice to the world! are you up to the task?<br>
-<a action="bypass -h npc_%objectId%_questlist">Quest Information</a><br>
-<a action="bypass -h npc_%objectId%_Quest RaidbossInfo">Raid Monster Information</a><br>
-<a action="bypass -h npc_%objectId%_Chat 1">Use Life Crystals</a><br>
-<a action="bypass -h npc_%objectId%_Quest">Quest</a>
-</body></html>
+<!-- evolution_master.htm -->
+<html>
+<body>
+<center>
+<img src="L2UI.SquareWhite" width=300 height=1>
+<table width=300 bgcolor=000000>
+<tr><td align=center><font color="LEVEL">Maestro de Evolución</font></td></tr>
+</table>
+<img src="L2UI.SquareWhite" width=300 height=1>
+<br>
+<% if (evolutionManager.canEvolve(player)) { %>
+<a action="bypass -h npc_%objectId%_Evolution">Quiero Evolucionar</a>
+<% } else { %>
+No cumples los requisitos para evolucionar.<br>
+Requisitos:<br>
+- Nivel %requiredLevel%<br>
+- Menos de %maxEvolutions% evoluciones<br>
+<% } %>
+</center>
+</body>
+</html>

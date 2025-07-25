@@ -159,8 +159,6 @@
         <description>Scroll bendito para encantar armas de grado D. No destruye el item al fallar, solo lo resetea a +0.</description>
     </scroll>
 
-    <!-- ... (otros scrolls benditos de armas con la misma estructura) ... -->
-
     <!-- Scrolls Benditos de Armaduras -->
     <scroll id="6576" name="Blessed Scroll of Enchant Armor (D-Grade)" grade="D" weapon="false" breaks="false" maintain="false" blessed="true">
         <chances>
@@ -175,8 +173,6 @@
         </chances>
         <description>Scroll bendito para encantar armaduras de grado D. No destruye el item al fallar, solo lo resetea a +0.</description>
     </scroll>
-
-    <!-- ... (otros scrolls benditos de armaduras con la misma estructura) ... -->
 
     <!-- ========== SCROLLS DE CRISTAL ========== -->
     <!-- Scrolls de Cristal de Armas -->
@@ -194,8 +190,6 @@
         <description>Scroll de cristal para encantar armas de grado D. Mantiene el nivel actual si falla.</description>
     </scroll>
 
-    <!-- ... (otros scrolls de cristal de armas con la misma estructura) ... -->
-
     <!-- Scrolls de Cristal de Armaduras -->
     <scroll id="958" name="Crystal Scroll of Enchant Armor (D-Grade)" grade="D" weapon="false" breaks="false" maintain="true" blessed="false">
         <chances>
@@ -210,6 +204,4 @@
         </chances>
         <description>Scroll de cristal para encantar armaduras de grado D. Mantiene el nivel actual si falla.</description>
     </scroll>
-
-    <!-- ... (otros scrolls de cristal de armaduras con la misma estructura) ... -->
 </enchant_scrolls>
