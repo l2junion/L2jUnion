@@ -9,13 +9,13 @@ set mysqlBinPath=C:\xampp\mysql\bin
 REM LOGINSERVER
 set LSUSER=root
 set LSPASS=
-set LSDB=probando
+set LSDB=L2jUnionFree
 set LSHOST=localhost
 
 REM GAMESERVER
 set GSUSER=root
 set GSPASS=
-set LSDB=probando
+set LSDB=L2jUnionFree
 set GSHOST=localhost
 REM ############################################
 

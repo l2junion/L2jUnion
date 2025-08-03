@@ -1,207 +1,202 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<enchant_scrolls>
-    <!-- ========== SCROLLS NORMALES ========== -->
-    <!-- Scrolls de Armas -->
-    <scroll id="955" name="Scroll of Enchant Weapon (D-Grade)" grade="D" weapon="true" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armas de grado D. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="951" name="Scroll of Enchant Weapon (C-Grade)" grade="C" weapon="true" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armas de grado C. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="947" name="Scroll of Enchant Weapon (B-Grade)" grade="B" weapon="true" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armas de grado B. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="729" name="Scroll of Enchant Weapon (A-Grade)" grade="A" weapon="true" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armas de grado A. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="959" name="Scroll of Enchant Weapon (S-Grade)" grade="S" weapon="true" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armas de grado S. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <!-- Scrolls de Armaduras -->
-    <scroll id="956" name="Scroll of Enchant Armor (D-Grade)" grade="D" weapon="false" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armaduras de grado D. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="952" name="Scroll of Enchant Armor (C-Grade)" grade="C" weapon="false" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armaduras de grado C. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="948" name="Scroll of Enchant Armor (B-Grade)" grade="B" weapon="false" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armaduras de grado B. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="730" name="Scroll of Enchant Armor (A-Grade)" grade="A" weapon="false" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armaduras de grado A. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <scroll id="960" name="Scroll of Enchant Armor (S-Grade)" grade="S" weapon="false" breaks="true" maintain="false" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll básico para encantar armaduras de grado S. El item puede destruirse al fallar.</description>
-    </scroll>
-
-    <!-- ========== SCROLLS BENDITOS ========== -->
-    <!-- Scrolls Benditos de Armas -->
-    <scroll id="6575" name="Blessed Scroll of Enchant Weapon (D-Grade)" grade="D" weapon="true" breaks="false" maintain="false" blessed="true">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll bendito para encantar armas de grado D. No destruye el item al fallar, solo lo resetea a +0.</description>
-    </scroll>
-
-    <!-- Scrolls Benditos de Armaduras -->
-    <scroll id="6576" name="Blessed Scroll of Enchant Armor (D-Grade)" grade="D" weapon="false" breaks="false" maintain="false" blessed="true">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll bendito para encantar armaduras de grado D. No destruye el item al fallar, solo lo resetea a +0.</description>
-    </scroll>
-
-    <!-- ========== SCROLLS DE CRISTAL ========== -->
-    <!-- Scrolls de Cristal de Armas -->
-    <scroll id="957" name="Crystal Scroll of Enchant Weapon (D-Grade)" grade="D" weapon="true" breaks="false" maintain="true" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll de cristal para encantar armas de grado D. Mantiene el nivel actual si falla.</description>
-    </scroll>
-
-    <!-- Scrolls de Cristal de Armaduras -->
-    <scroll id="958" name="Crystal Scroll of Enchant Armor (D-Grade)" grade="D" weapon="false" breaks="false" maintain="true" blessed="false">
-        <chances>
-            <enchant level="0" chance="50"/>
-            <enchant level="1" chance="40"/>
-            <enchant level="2" chance="30"/>
-            <enchant level="3" chance="20"/>
-            <enchant level="4" chance="15"/>
-            <enchant level="5" chance="10"/>
-            <enchant level="6" chance="5"/>
-            <enchant level="7" chance="3"/>
-        </chances>
-        <description>Scroll de cristal para encantar armaduras de grado D. Mantiene el nivel actual si falla.</description>
-    </scroll>
-</enchant_scrolls>
+<?xml version="1.0" ?>
+<enchantConfig>
+    <scrolls>
+        <scroll id="955" type="weapon" grade="D" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="100"/>
+                <enchant level="2" chance="100"/>
+                <enchant level="3" chance="100"/>
+                <enchant level="4" chance="100"/>
+                <enchant level="5" chance="30"/>
+                <enchant level="6" chance="30"/>
+                <enchant level="7" chance="30"/>
+                <enchant level="8" chance="30"/>
+                <enchant level="9" chance="30"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="951" type="weapon" grade="C" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="70"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="30"/>
+                <enchant level="5" chance="20"/>
+                <enchant level="6" chance="15"/>
+                <enchant level="7" chance="10"/>
+                <enchant level="8" chance="10"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="947" type="weapon" grade="B" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="70"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="30"/>
+                <enchant level="5" chance="20"/>
+                <enchant level="6" chance="15"/>
+                <enchant level="7" chance="10"/>
+                <enchant level="8" chance="10"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="729" type="weapon" grade="A" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="70"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="30"/>
+                <enchant level="5" chance="20"/>
+                <enchant level="6" chance="15"/>
+                <enchant level="7" chance="10"/>
+                <enchant level="8" chance="10"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="959" type="weapon" grade="S" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="70"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="30"/>
+                <enchant level="5" chance="20"/>
+                <enchant level="6" chance="15"/>
+                <enchant level="7" chance="10"/>
+                <enchant level="8" chance="10"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="956" type="armor" grade="D" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="66"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="33"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="16"/>
+                <enchant level="8" chance="16"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="952" type="armor" grade="C" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="66"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="33"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="16"/>
+                <enchant level="8" chance="16"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="948" type="armor" grade="B" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="66"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="33"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="16"/>
+                <enchant level="8" chance="16"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="730" type="armor" grade="A" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="66"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="33"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="16"/>
+                <enchant level="8" chance="16"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="960" type="armor" grade="S" blessed="false" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="66"/>
+                <enchant level="2" chance="50"/>
+                <enchant level="3" chance="40"/>
+                <enchant level="4" chance="33"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="16"/>
+                <enchant level="8" chance="16"/>
+            </chances>
+            <behavior breaks="true" maintain="false"/>
+        </scroll>
+        <scroll id="6575" type="weapon" grade="D" blessed="true" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="100"/>
+                <enchant level="2" chance="100"/>
+                <enchant level="3" chance="100"/>
+                <enchant level="4" chance="100"/>
+                <enchant level="5" chance="50"/>
+                <enchant level="6" chance="50"/>
+                <enchant level="7" chance="50"/>
+                <enchant level="8" chance="50"/>
+            </chances>
+            <behavior breaks="false" maintain="true"/>
+        </scroll>
+        <scroll id="6576" type="armor" grade="D" blessed="true" crystal="false">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="75"/>
+                <enchant level="2" chance="60"/>
+                <enchant level="3" chance="50"/>
+                <enchant level="4" chance="40"/>
+                <enchant level="5" chance="30"/>
+                <enchant level="6" chance="25"/>
+                <enchant level="7" chance="20"/>
+                <enchant level="8" chance="20"/>
+            </chances>
+            <behavior breaks="false" maintain="true"/>
+        </scroll>
+        <scroll id="957" type="weapon" grade="D" blessed="false" crystal="true">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="75"/>
+                <enchant level="2" chance="55"/>
+                <enchant level="3" chance="45"/>
+                <enchant level="4" chance="35"/>
+                <enchant level="5" chance="25"/>
+                <enchant level="6" chance="20"/>
+                <enchant level="7" chance="15"/>
+                <enchant level="8" chance="15"/>
+            </chances>
+            <behavior breaks="false" maintain="true"/>
+        </scroll>
+        <scroll id="958" type="armor" grade="D" blessed="false" crystal="true">
+            <chances>
+                <enchant level="0" chance="100"/>
+                <enchant level="1" chance="70"/>
+                <enchant level="2" chance="55"/>
+                <enchant level="3" chance="45"/>
+                <enchant level="4" chance="35"/>
+                <enchant level="5" chance="28"/>
+                <enchant level="6" chance="22"/>
+                <enchant level="7" chance="18"/>
+                <enchant level="8" chance="18"/>
+            </chances>
+            <behavior breaks="false" maintain="true"/>
+        </scroll>
+    </scrolls>
+</enchantConfig>

@@ -27,4 +27,13 @@
 	<npcmaker name="hasha_676037125847500" territory="hasha_1753369756562" maximumNpcs="1">
 		<npc id="50000" pos="82954;148016;-3464;55608" total="1" respawn="60sec" /> <!-- Hasha -->
 	</npcmaker>
+	<territory name="hasha_1753483698561" minZ="-3464" maxZ="-3448">
+		<node x="82887" y="148221" />
+		<node x="82787" y="148221" />
+		<node x="82787" y="148121" />
+		<node x="82887" y="148121" />
+	</territory>
+	<npcmaker name="hasha_789980043346300" territory="hasha_1753483698561" maximumNpcs="1">
+		<npc id="50007" pos="82837;148171;-3464;51523" total="1" respawn="60sec" /> <!-- Hasha -->
+	</npcmaker>
 </list>
