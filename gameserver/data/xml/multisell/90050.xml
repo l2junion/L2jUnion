@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Quest 382: Kail's Magic Coin - Head Blacksmith Vergara -->
+<list>
+	<npcs>
+		<npc>50024</npc> <!-- Vergara (Head Blacksmith) -->
+	</npcs>
+  <item id="1">
+    <ingredient id="3470" count="1"/>
+    <production id="9400" count="1"/>
+  </item>
+<item id="2">
+    <ingredient id="3470" count="1"/>
+    <production id="9401" count="1"/>
+  </item>
+  <item id="3">
+    <ingredient id="3470" count="1"/>
+    <production id="9402" count="1"/>
+  </item>
+  <item id="7">
+    <ingredient id="3470" count="1"/>
+    <production id="9403" count="1"/>
+  </item>
+  <item id="8">
+    <ingredient id="3470" count="1"/>
+    <production id="9404" count="1"/>
+	  </item>
+</list>
