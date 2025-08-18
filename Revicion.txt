@@ -2,4 +2,6 @@ L2jUnion
 
 Server Files 
 
-(Revision 4) [NO IP BINDING] 1.0.34
+(Revision 10) [NO IP BINDING] 1.0.34
+
+Fecha de actualizacion 18/08/205

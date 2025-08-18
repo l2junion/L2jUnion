@@ -178,6 +178,9 @@
 <!-- mods mios-->
 	<aCar name="admin_removevip" accessLevel="1" params="" desc="te quita vip."/>
 	<aCar name="admin_setvip" accessLevel="1" params="" desc="te da vip."/>
-	// vaciar inventario
+	<!-- vasiarinventario -->
 	<aCar name="admin_limpiar_inventario" accessLevel="1" params="" desc="se saco todo"/>
-</list>
+		<!-- AIO COMMANDS -->
+	<aCar name="admin_aio" accessLevel="7" params="" desc="Activa el estado AIO completo en el jugador objetivo."/>
+	<aCar name="admin_removeaio" accessLevel="7" params="" desc="Activa el estado AIO Bronce en el jugador objetivo."/>
+	</list>

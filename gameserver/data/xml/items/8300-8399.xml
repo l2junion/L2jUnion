@@ -480,6 +480,7 @@
 		<set name="material" val="STEEL" />
 		<set name="weight" val="20" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="GradeDBox" />
 	</item>
 	<item id="8361" type="EtcItem" name="Adventurer's Box - B Accessory">
 		<set name="material" val="STEEL" />

@@ -8,7 +8,7 @@ FakePcsTable: Loaded 1 NPC to PC templates.
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 61 used ids.
+Initializing 102912 objectIds pool, with 162 used ids.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -37,16 +37,17 @@ Loaded 2 cursed weapons.
 Loaded 9176 icons.
 -------------------------------------------------------------------=[ Admins ]
 Loaded 10 access levels.
-Loaded 111 admin command rights.
+Loaded 113 admin command rights.
 Loaded 0 bookmarks.
 Loaded 0 petitions.
 ---------------------------------------------------------------=[ Characters ]
 Loaded 89 player classes templates.
-Loaded 6 player infos.
+Loaded 5 player infos.
 Loaded 81 player levels.
 Loaded 0 RaidPoints entries.
 Loaded 29 healSps entries.
 Loaded 92 restart areas and 36 restart points.
+AIOTaskManager: Iniciado con verificación cada 60 segundos.
 ---------------------------------------------------------=[ Community server ]
 Loaded 0 forums.
 --------------------------------------------------------------------=[ Clans ]
@@ -56,7 +57,7 @@ Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
 Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
 Loaded 139 L2J region files.
 --------------------------------------------------------------------=[ Zones ]
-Loaded 23 zones classes and total 1016 zones.
+Loaded 24 zones classes and total 1018 zones.
 --------------------------------------------------------------------=[ Doors ]
 Loaded 547 doors templates.
 -----------------------------------------------------=[ Castles & Clan Halls ]
@@ -72,21 +73,27 @@ The Seal of Avarice remains unclaimed.
 The Seal of Gnosis remains unclaimed.
 The Seal of Strife remains unclaimed.
 The Seven Signs competition will end in a tie this week.
-Next Seven Signs period change set to Mon Aug 04 18:00:00 GMT-03:00 2025.
-Next Seven Signs period begins in 1 days, 15 hours and 17 mins.
+Next Seven Signs period change set to Mon Aug 18 18:00:00 GMT-03:00 2025.
+Next Seven Signs period begins in 0 days, 14 hours and 47 mins.
 The first Festival of Darkness cycle begins in 2 minute(s).
 ------------------------------------------------------------=[ Manor Manager ]
 Loaded 121 manor areas.
 Loaded 246 seeds.
 ---------------------------------------------------------------------=[ NPCs ]
 Loaded 60 available buffs.
-Loaded 6502 NPC templates.
+Loaded 6504 NPC templates.
 Loaded 132 walking routes.
 Loaded 29 static objects.
 Loaded 205 spawn data.
-Loaded 9710 territories.
-Loaded 10076 NPC makers.
-Loaded 0 custom spawns.
+Loaded 9706 territories.
+Loaded 10072 NPC makers.
+Error in doSpawn for NPC 20015: 
+Error in doSpawn for NPC 20001: 
+Error in doSpawn for NPC 50000: 
+Error in doSpawn for NPC 50002: 
+Error in doSpawn for NPC 50022: 
+Successfully loaded 5 custom spawns from database.
+Loaded 5 custom spawns.
 Loaded 14 newbie buffs.
 Loaded 74 instant teleport positions.
 Loaded 117 teleport positions.
@@ -98,25 +105,27 @@ Loaded 22 stadiums.
 Loaded 0 nobles.
 Loaded 0 heroes and 0 all time heroes.
 ---------------------------------------------------------=[ Quests & Scripts ]
-Bandit Stronghold siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
-Devastated Castle siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
-Fortress of Resistance siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
-Fortress of the Dead siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
-Rainbow Springs Chateau siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
-Wild Beast Reserve siege scheduled for Sun Aug 03 12:00:00 GMT-03:00 2025.
+Bandit Stronghold siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Devastated Castle siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Fortress of Resistance siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Fortress of the Dead siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Rainbow Springs Chateau siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Wild Beast Reserve siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
 Loaded 857 regular scripts and 6 scheduled scripts.
+PcBang point event started.
 Loaded 5 boat itineraries.
 -------------------------------------------------------------------=[ Events ]
-Loaded 42 Derby Track records, currently on race #43.
+Loaded 47 Derby Track records, currently on race #48.
 Loaded 0 couples.
 -------------------------------------------------------------------=[ Spawns ]
-Spawned 30404 NPCs.
+Spawned 30508 NPCs.
 Spawned 462 "extra_mob" NPCs.
 Spawned 18 "18age" NPCs.
 Spawned 12 "start_weapon" NPCs.
 Spawned 2616 Seven Signs - Event NPCs.
+Loaded {1} Party Farm spawns.
 -----------------------------------------------------------------=[ Handlers ]
-Loaded 110 admin command handlers.
+Loaded 112 admin command handlers.
 Loaded 13 chat handlers.
 Loaded 26 item handlers.
 Loaded 74 skill handlers.
@@ -126,11 +135,9 @@ Loaded 15 user command handlers.
 Loaded 16 voiced command handlers.
 -------------------------------------------------------------------=[ System ]
 Server crashed on last session!
-Gameserver has started, used memory: 1306 / 2048 Mo.
+Gameserver has started, used memory: 1307 / 2048 Mo.
 Maximum allowed players: 500.
 --------------------------------------------------------------------=[ Login ]
 Connecting to login on 127.0.0.1:9014.
 Registered as server: [1] Bartz.
-dg has logged in with Master access level.
-TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
-dg has logged in with Master access level.
+DarkGm has logged in with Master access level.
