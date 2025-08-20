@@ -1,19 +1,19 @@
-[18-08-2025 14:34:16]	INFO	-------------------------------------------------------------------=[ Config ]
-[18-08-2025 14:34:16]	INFO	Loading loginserver configuration files.
-[18-08-2025 14:34:16]	INFO	------------------------------------------------------------------=[ Poolers ]
-[18-08-2025 14:34:16]	INFO	Initializing ConnectionPool.
-[18-08-2025 14:34:16]	INFO	----------------------------------------------------------=[ LoginController ]
-[18-08-2025 14:34:18]	INFO	Cached 10 KeyPairs for RSA communication.
-[18-08-2025 14:34:18]	INFO	Stored 20 keys for Blowfish communication.
-[18-08-2025 14:34:18]	INFO	--------------------------------------------------------=[ GameServerManager ]
-[18-08-2025 14:34:18]	INFO	Loaded 127 server names.
-[18-08-2025 14:34:18]	INFO	Loaded 1 registered gameserver(s).
-[18-08-2025 14:34:18]	INFO	Cached 10 RSA keys for gameserver communication.
-[18-08-2025 14:34:18]	INFO	-----------------------------------------------------------------=[ Ban List ]
-[18-08-2025 14:34:18]	INFO	Loaded 0 banned IP(s).
-[18-08-2025 14:34:18]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
-[18-08-2025 14:34:18]	INFO	Listening for gameservers on *:9014.
-[18-08-2025 14:34:18]	INFO	Loginserver ready on *:2106.
-[18-08-2025 14:34:18]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
-[18-08-2025 14:34:56]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
-[18-08-2025 14:44:45]	INFO	GameServer [1] Bartz is now set as disconnected.
+[20-08-2025 12:04:44]	INFO	-------------------------------------------------------------------=[ Config ]
+[20-08-2025 12:04:44]	INFO	Loading loginserver configuration files.
+[20-08-2025 12:04:44]	INFO	------------------------------------------------------------------=[ Poolers ]
+[20-08-2025 12:04:45]	INFO	Initializing ConnectionPool.
+[20-08-2025 12:04:45]	INFO	----------------------------------------------------------=[ LoginController ]
+[20-08-2025 12:04:46]	INFO	Cached 10 KeyPairs for RSA communication.
+[20-08-2025 12:04:46]	INFO	Stored 20 keys for Blowfish communication.
+[20-08-2025 12:04:46]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[20-08-2025 12:04:46]	INFO	Loaded 127 server names.
+[20-08-2025 12:04:46]	INFO	Loaded 1 registered gameserver(s).
+[20-08-2025 12:04:46]	INFO	Cached 10 RSA keys for gameserver communication.
+[20-08-2025 12:04:46]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[20-08-2025 12:04:46]	INFO	Loaded 0 banned IP(s).
+[20-08-2025 12:04:46]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[20-08-2025 12:04:46]	INFO	Listening for gameservers on *:9014.
+[20-08-2025 12:04:46]	INFO	Loginserver ready on *:2106.
+[20-08-2025 12:04:46]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
+[20-08-2025 12:05:25]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
+[20-08-2025 12:11:04]	INFO	GameServer [1] Bartz is now set as disconnected.
