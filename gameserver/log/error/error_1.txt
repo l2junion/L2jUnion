@@ -1,0 +1,46 @@
+ago 20, 2025 12:27:58 P. M. net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket run
+GRAVE: Failed reading [C] Action for [Character: DarkGm - Account: admin - IP: 127.0.0.1]. 
+java.lang.ArrayIndexOutOfBoundsException: Index 80 out of bounds for length 80
+	at net.sf.l2j.gameserver.model.actor.template.PlayerTemplate.getBaseHpMax(PlayerTemplate.java:140)
+	at net.sf.l2j.gameserver.model.actor.status.CreatureStatus.getMaxHp(CreatureStatus.java:588)
+	at net.sf.l2j.gameserver.model.actor.status.PlayerStatus.getMaxHp(PlayerStatus.java:712)
+	at net.sf.l2j.gameserver.model.actor.Player.setTarget(Player.java:2517)
+	at net.sf.l2j.gameserver.model.actor.Player.onAction(Player.java:2234)
+	at net.sf.l2j.gameserver.network.clientpackets.Action.runImpl(Action.java:60)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:52)
+	at net.sf.l2j.gameserver.network.GameClient.run(GameClient.java:140)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+
+ago 20, 2025 12:32:40 P. M. net.sf.l2j.gameserver.model.actor.Player storeCharBase
+GRAVE: Couldn't store player base data.
+java.lang.ArrayIndexOutOfBoundsException: Index 80 out of bounds for length 80
+	at net.sf.l2j.gameserver.model.actor.template.PlayerTemplate.getBaseHpMax(PlayerTemplate.java:140)
+	at net.sf.l2j.gameserver.model.actor.status.CreatureStatus.getMaxHp(CreatureStatus.java:588)
+	at net.sf.l2j.gameserver.model.actor.status.PlayerStatus.getMaxHp(PlayerStatus.java:712)
+	at net.sf.l2j.gameserver.model.actor.Player.storeCharBase(Player.java:4379)
+	at net.sf.l2j.gameserver.model.actor.Player.store(Player.java:4352)
+	at net.sf.l2j.gameserver.model.actor.Player.store(Player.java:4359)
+	at net.sf.l2j.gameserver.network.GameClient.lambda$new$0(GameClient.java:108)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:369)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:310)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+
+ago 20, 2025 12:33:52 P. M. net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket run
+GRAVE: Failed reading [C] Action for [Character: DarkGm - Account: admin - IP: 127.0.0.1]. 
+java.lang.ArrayIndexOutOfBoundsException: Index 80 out of bounds for length 80
+	at net.sf.l2j.gameserver.model.actor.template.PlayerTemplate.getBaseHpMax(PlayerTemplate.java:140)
+	at net.sf.l2j.gameserver.model.actor.status.CreatureStatus.getMaxHp(CreatureStatus.java:588)
+	at net.sf.l2j.gameserver.model.actor.status.PlayerStatus.getMaxHp(PlayerStatus.java:712)
+	at net.sf.l2j.gameserver.model.actor.Player.setTarget(Player.java:2517)
+	at net.sf.l2j.gameserver.model.actor.Player.onAction(Player.java:2234)
+	at net.sf.l2j.gameserver.network.clientpackets.Action.runImpl(Action.java:60)
+	at net.sf.l2j.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:52)
+	at net.sf.l2j.gameserver.network.GameClient.run(GameClient.java:140)
+	at net.sf.l2j.commons.pool.ThreadPool$TaskWrapper.run(ThreadPool.java:124)
+	at java.base/java.lang.VirtualThread.run(VirtualThread.java:466)
+

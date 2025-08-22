@@ -43,7 +43,7 @@ Loaded 0 petitions.
 ---------------------------------------------------------------=[ Characters ]
 Loaded 89 player classes templates.
 Loaded 5 player infos.
-Loaded 81 player levels.
+Loaded 82 player levels.
 Loaded 0 RaidPoints entries.
 Loaded 29 healSps entries.
 Loaded 92 restart areas and 36 restart points.
@@ -61,15 +61,6 @@ Loaded 24 zones classes and total 1018 zones.
 --------------------------------------------------------------------=[ Doors ]
 Loaded 547 doors templates.
 -----------------------------------------------------=[ Castles & Clan Halls ]
-Message id 1001001 does not exist.
-Message id 1001002 does not exist.
-Message id 1001003 does not exist.
-Message id 1001004 does not exist.
-Message id 1001005 does not exist.
-Message id 1001006 does not exist.
-Message id 1001007 does not exist.
-Message id 1001008 does not exist.
-Message id 1001009 does not exist.
 Loaded 9 castles.
 Loaded 73 clan halls decos.
 Loaded 44 clan halls and 6 siegable clan halls.
@@ -83,7 +74,7 @@ The Seal of Gnosis remains unclaimed.
 The Seal of Strife remains unclaimed.
 The Seven Signs competition ended with a tie last week.
 Next Seven Signs period change set to Mon Aug 25 18:00:00 GMT-03:00 2025.
-Next Seven Signs period begins in 5 days, 5 hours and 47 mins.
+Next Seven Signs period begins in 5 days, 5 hours and 24 mins.
 Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
 ------------------------------------------------------------=[ Manor Manager ]
 Loaded 121 manor areas.
@@ -91,26 +82,6 @@ Loaded 246 seeds.
 ---------------------------------------------------------------------=[ NPCs ]
 Loaded 60 available buffs.
 Loaded 6506 NPC templates.
-Message id 1010202 does not exist.
-Message id 1010203 does not exist.
-Message id 1010204 does not exist.
-Message id 1010201 does not exist.
-Message id 1010205 does not exist.
-Message id 1010206 does not exist.
-Message id 1010207 does not exist.
-Message id 1010210 does not exist.
-Message id 1010211 does not exist.
-Message id 1010208 does not exist.
-Message id 1010209 does not exist.
-Message id 1010212 does not exist.
-Message id 1010213 does not exist.
-Message id 1010214 does not exist.
-Message id 1010218 does not exist.
-Message id 1010219 does not exist.
-Message id 1010220 does not exist.
-Message id 1010215 does not exist.
-Message id 1010216 does not exist.
-Message id 1010217 does not exist.
 Loaded 132 walking routes.
 Loaded 29 static objects.
 Loaded 205 spawn data.
@@ -144,11 +115,9 @@ PcBang point event started.
 Loaded 5 boat itineraries.
 -------------------------------------------------------------------=[ Events ]
 Loaded 47 Derby Track records, currently on race #48.
-Wrong parameter count '1' for SM[816:nA].
 Loaded 0 couples.
 -------------------------------------------------------------------=[ Spawns ]
-Territory name "rune12_2216_b15", wrong Z 0, wrong geo 10
-Spawned 30595 NPCs.
+Spawned 30634 NPCs.
 Spawned 462 "extra_mob" NPCs.
 Spawned 18 "18age" NPCs.
 Spawned 12 "start_weapon" NPCs.
@@ -156,19 +125,20 @@ Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
 Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
 Loaded {1} Party Farm spawns.
 -----------------------------------------------------------------=[ Handlers ]
-Loaded 0 admin command handlers.
-Loaded 0 chat handlers.
-Loaded 0 item handlers.
-Loaded 0 skill handlers.
-Loaded 0 target handlers.
+Loaded 112 admin command handlers.
+Loaded 13 chat handlers.
+Loaded 26 item handlers.
+Loaded 74 skill handlers.
+Loaded 25 target handlers.
 Loaded 18 voiced command handlers.
-Loaded 0 user command handlers.
+Loaded 15 user command handlers.
 Loaded 18 voiced command handlers.
 -------------------------------------------------------------------=[ System ]
 Server crashed on last session!
-Gameserver has started, used memory: 1321 / 2048 Mo.
+Gameserver has started, used memory: 1281 / 2048 Mo.
 Maximum allowed players: 500.
 --------------------------------------------------------------------=[ Login ]
 Connecting to login on 127.0.0.1:9014.
 Registered as server: [1] Bartz.
-Wrong parameter count '1' for SM[817:nB].
+DarkGm has logged in with Master access level.
+TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
