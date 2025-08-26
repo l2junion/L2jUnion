@@ -2,13 +2,14 @@
 Loading gameserver configuration files.
 ------------------------------------------------------------------=[ Poolers ]
 Initializing ConnectionPool.
-Initializing ThreadPool.
+ThreadPool initialization complete.
+Total threads started and ready to use: 48
 FakePcsTable: Loaded 1 NPC to PC templates.
 ----------------------------------------------------------------=[ IdFactory ]
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 162 used ids.
+Initializing 102912 objectIds pool, with 10 used ids.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -42,9 +43,9 @@ Loaded 0 bookmarks.
 Loaded 0 petitions.
 ---------------------------------------------------------------=[ Characters ]
 Loaded 89 player classes templates.
-Loaded 5 player infos.
-Loaded 82 player levels.
-Loaded 0 RaidPoints entries.
+Loaded 4 player infos.
+Loaded 81 player levels.
+Loaded 1 RaidPoints entries.
 Loaded 29 healSps entries.
 Loaded 92 restart areas and 36 restart points.
 AIOTaskManager: Iniciado con verificación cada 60 segundos.
@@ -68,14 +69,14 @@ Loaded 3 evolution skills
 ------------------------------------------------------------=[ Task Managers ]
 Restored 0 items on ground.
 --------------------------------------------------------------=[ Seven Signs ]
-Currently on Seal Validation period.
+Currently on Competition (Quest Event) period.
 The Seal of Avarice remains unclaimed.
 The Seal of Gnosis remains unclaimed.
 The Seal of Strife remains unclaimed.
-The Seven Signs competition ended with a tie last week.
-Next Seven Signs period change set to Mon Aug 25 18:00:00 GMT-03:00 2025.
-Next Seven Signs period begins in 5 days, 5 hours and 24 mins.
-Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
+The Seven Signs competition will end in a tie this week.
+Next Seven Signs period change set to Mon Sep 01 18:00:00 GMT-03:00 2025.
+Next Seven Signs period begins in 6 days, 14 hours and 58 mins.
+The first Festival of Darkness cycle begins in 2 minute(s).
 ------------------------------------------------------------=[ Manor Manager ]
 Loaded 121 manor areas.
 Loaded 246 seeds.
@@ -91,8 +92,9 @@ Error in doSpawn for NPC 20015:
 Error in doSpawn for NPC 20001: 
 Error in doSpawn for NPC 50024: 
 Error in doSpawn for NPC 50023: 
-Successfully loaded 4 custom spawns from database.
-Loaded 4 custom spawns.
+Error in doSpawn for NPC 50000: 
+Successfully loaded 5 custom spawns from database.
+Loaded 5 custom spawns.
 Loaded 14 newbie buffs.
 Loaded 74 instant teleport positions.
 Loaded 117 teleport positions.
@@ -114,31 +116,32 @@ Loaded 857 regular scripts and 6 scheduled scripts.
 PcBang point event started.
 Loaded 5 boat itineraries.
 -------------------------------------------------------------------=[ Events ]
-Loaded 47 Derby Track records, currently on race #48.
+Loaded 51 Derby Track records, currently on race #52.
 Loaded 0 couples.
 -------------------------------------------------------------------=[ Spawns ]
-Spawned 30634 NPCs.
+Territory name "rune12_2216_b20", wrong Z 3, wrong geo 7
+Spawned 30318 NPCs.
 Spawned 462 "extra_mob" NPCs.
 Spawned 18 "18age" NPCs.
 Spawned 12 "start_weapon" NPCs.
-Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
-Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+Spawned 2616 Seven Signs - Event NPCs.
 Loaded {1} Party Farm spawns.
 -----------------------------------------------------------------=[ Handlers ]
 Loaded 112 admin command handlers.
 Loaded 13 chat handlers.
-Loaded 26 item handlers.
+Loaded 27 item handlers.
 Loaded 74 skill handlers.
 Loaded 25 target handlers.
-Loaded 18 voiced command handlers.
+Loaded 23 voiced command handlers.
 Loaded 15 user command handlers.
-Loaded 18 voiced command handlers.
+Loaded 23 voiced command handlers.
 -------------------------------------------------------------------=[ System ]
 Server crashed on last session!
-Gameserver has started, used memory: 1281 / 2048 Mo.
+Gameserver has started, used memory: 1376 / 2048 Mo.
 Maximum allowed players: 500.
 --------------------------------------------------------------------=[ Login ]
 Connecting to login on 127.0.0.1:9014.
 Registered as server: [1] Bartz.
 DarkGm has logged in with Master access level.
 TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
+DarkGm has logged in with Master access level.

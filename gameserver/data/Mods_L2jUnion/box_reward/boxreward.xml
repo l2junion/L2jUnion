@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ComboBoxes>
+    <ComboBox ID="1870"> <!-- Mage Starter Pack-->
+        <item itemId="177" amount="1" enchantLevel="0" chance="70"/> 
+        <item itemId="1101" amount="1" enchantLevel="0" chance="80"/>
+        <item itemId="1104" amount="1" enchantLevel="0" chance="80"/>
+        <item itemId="908" amount="1" enchantLevel="0" chance="80"/>
+        <item itemId="115" amount="1" enchantLevel="0" chance="80"/>
+        <item itemId="877" amount="1" enchantLevel="0" chance="80"/>
+        <item itemId="3948" amount="2000" enchantLevel="0" chance="80"/>
+    </ComboBox>
+
+    <ComboBox ID="1871"> <!-- Fighter Starter Pack-->
+        <item itemId="68" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="711" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="715" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="908" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="115" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="877" amount="1" enchantLevel="0" chance="100"/>
+        <item itemId="1463" amount="2500" enchantLevel="0" chance="100"/>
+    </ComboBox>
+</ComboBoxes>

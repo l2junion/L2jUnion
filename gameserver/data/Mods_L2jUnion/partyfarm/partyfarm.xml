@@ -9,7 +9,7 @@
 <partyfarm>
     <event name="partyfarm">
         <!-- Ativa ou desativa este evento -->
-        <enabled>true</enabled>
+        <enabled>false</enabled>
 
         <!-- Duração total do evento em minutos (após o tempo de preparação) -->
         <duration>30</duration>

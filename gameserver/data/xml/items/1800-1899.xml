@@ -593,6 +593,7 @@
 		<set name="weight" val="2" />
 		<set name="price" val="200" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="ComboBoxHandler" />
 	</item>
 	<item id="1871" type="EtcItem" name="Charcoal">
 		<set name="etcitem_type" val="MATERIAL" />

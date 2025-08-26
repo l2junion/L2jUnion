@@ -17,7 +17,3 @@ Loginserver ready on *:2106.
 --------------------------------------------=[ Waiting for gameserver answer ]
 Hooked [1] Bartz gameserver on: 127.0.0.1.
 GameServer [1] Bartz is now set as disconnected.
-Hooked [1] Bartz gameserver on: 127.0.0.1.
-GameServer [1] Bartz is now set as disconnected.
-Hooked [1] Bartz gameserver on: 127.0.0.1.
-GameServer [1] Bartz is now set as disconnected.
