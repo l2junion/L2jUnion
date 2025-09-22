@@ -9,7 +9,7 @@ FakePcsTable: Loaded 1 NPC to PC templates.
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 10 used ids.
+Initializing 102912 objectIds pool, with 58 used ids.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -43,7 +43,7 @@ Loaded 0 bookmarks.
 Loaded 0 petitions.
 ---------------------------------------------------------------=[ Characters ]
 Loaded 89 player classes templates.
-Loaded 4 player infos.
+Loaded 8 player infos.
 Loaded 81 player levels.
 Loaded 1 RaidPoints entries.
 Loaded 29 healSps entries.
@@ -58,7 +58,7 @@ Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
 Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
 Loaded 139 L2J region files.
 --------------------------------------------------------------------=[ Zones ]
-Loaded 24 zones classes and total 1018 zones.
+Loaded 24 zones classes and total 1019 zones.
 --------------------------------------------------------------------=[ Doors ]
 Loaded 547 doors templates.
 -----------------------------------------------------=[ Castles & Clan Halls ]
@@ -74,27 +74,22 @@ The Seal of Avarice remains unclaimed.
 The Seal of Gnosis remains unclaimed.
 The Seal of Strife remains unclaimed.
 The Seven Signs competition will end in a tie this week.
-Next Seven Signs period change set to Mon Sep 01 18:00:00 GMT-03:00 2025.
-Next Seven Signs period begins in 6 days, 14 hours and 58 mins.
+Next Seven Signs period change set to Mon Sep 22 18:00:00 GMT-03:00 2025.
+Next Seven Signs period begins in 0 days, 15 hours and 53 mins.
 The first Festival of Darkness cycle begins in 2 minute(s).
 ------------------------------------------------------------=[ Manor Manager ]
 Loaded 121 manor areas.
 Loaded 246 seeds.
 ---------------------------------------------------------------------=[ NPCs ]
 Loaded 60 available buffs.
-Loaded 6506 NPC templates.
+Loaded 6507 NPC templates.
 Loaded 132 walking routes.
 Loaded 29 static objects.
 Loaded 205 spawn data.
 Loaded 9706 territories.
 Loaded 10072 NPC makers.
-Error in doSpawn for NPC 20015: 
-Error in doSpawn for NPC 20001: 
-Error in doSpawn for NPC 50024: 
-Error in doSpawn for NPC 50023: 
-Error in doSpawn for NPC 50000: 
-Successfully loaded 5 custom spawns from database.
-Loaded 5 custom spawns.
+Successfully loaded 6 custom spawns from database.
+Loaded 6 custom spawns.
 Loaded 14 newbie buffs.
 Loaded 74 instant teleport positions.
 Loaded 117 teleport positions.
@@ -106,21 +101,22 @@ Loaded 22 stadiums.
 Loaded 0 nobles.
 Loaded 0 heroes and 0 all time heroes.
 ---------------------------------------------------------=[ Quests & Scripts ]
-Bandit Stronghold siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-Devastated Castle siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-Fortress of Resistance siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-Fortress of the Dead siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-Rainbow Springs Chateau siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-Wild Beast Reserve siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
+Bandit Stronghold siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Devastated Castle siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Fortress of Resistance siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Fortress of the Dead siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Rainbow Springs Chateau siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Wild Beast Reserve siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
 Loaded 857 regular scripts and 6 scheduled scripts.
 PcBang point event started.
 Loaded 5 boat itineraries.
 -------------------------------------------------------------------=[ Events ]
-Loaded 51 Derby Track records, currently on race #52.
+Loaded 63 Derby Track records, currently on race #64.
 Loaded 0 couples.
 -------------------------------------------------------------------=[ Spawns ]
-Territory name "rune12_2216_b20", wrong Z 3, wrong geo 7
-Spawned 30318 NPCs.
+Territory name "lyonn05_2014_22", wrong Z 4, wrong geo 6
+Territory name "godard10_mb2514_03", wrong Z 10, wrong geo 0
+Spawned 30321 NPCs.
 Spawned 462 "extra_mob" NPCs.
 Spawned 18 "18age" NPCs.
 Spawned 12 "start_weapon" NPCs.
@@ -137,11 +133,10 @@ Loaded 15 user command handlers.
 Loaded 23 voiced command handlers.
 -------------------------------------------------------------------=[ System ]
 Server crashed on last session!
-Gameserver has started, used memory: 1376 / 2048 Mo.
+Gameserver has started, used memory: 1245 / 2048 Mo.
 Maximum allowed players: 500.
 --------------------------------------------------------------------=[ Login ]
 Connecting to login on 127.0.0.1:9014.
 Registered as server: [1] Bartz.
 DarkGm has logged in with Master access level.
 TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
-DarkGm has logged in with Master access level.

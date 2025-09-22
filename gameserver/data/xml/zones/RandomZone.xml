@@ -4,7 +4,7 @@
     <zone type="RandomZone" shape="Cuboid" minZ="-3752" maxZ="-352">
         <stat name="id" val="1" />
         <stat name="name" val="Gludin Arena" />
-        <stat name="time" val="300" />
+        <stat name="time" val="20" />
         <stat name="locs" val="-88339,141802,-3649;-87894,142231,-3649" />
         <node x="-88411" y="141732" />
         <node x="-87429" y="142708" />
@@ -12,9 +12,17 @@
     <zone type="RandomZone" shape="Cuboid" minZ="-3850" maxZ="-350">
         <stat name="id" val="2" />
         <stat name="name" val="Giran Arena" />
-        <stat name="time" val="400" />
+        <stat name="time" val="20" />
         <stat name="locs" val="73306,142440,-3775;72646,142403,-3775" />
         <node x="72493" y="142263" />
         <node x="73493" y="143261" />
     </zone>
+	<zone type="RandomZone" shape="Cuboid" minZ="-5792" maxZ="-1152">
+    <stat name="id" val="3" />
+    <stat name="name" val="Forbidden_Gateway_Random" />
+    <stat name="time" val="20" />
+    <stat name="locs" val="185013,27544,-3744;187664,29206,-3600;194383,23004,-3608;184072,23656,-3328" />
+   <node x="184000" y="24000" />
+    <node x="194000" y="29000" />
+</zone>
 </list>

@@ -1,149 +1,143 @@
-[26-08-2025 02:08:33]	INFO	-------------------------------------------------------------------=[ Config ]
-[26-08-2025 02:08:33]	INFO	Loading gameserver configuration files.
-[26-08-2025 02:08:33]	INFO	------------------------------------------------------------------=[ Poolers ]
-[26-08-2025 02:08:35]	INFO	Initializing ConnectionPool.
-[26-08-2025 02:08:35]	INFO	ThreadPool initialization complete.
-[26-08-2025 02:08:35]	INFO	Total threads started and ready to use: 48
-[26-08-2025 02:08:35]	INFO	FakePcsTable: Loaded 1 NPC to PC templates.
-[26-08-2025 02:08:35]	INFO	----------------------------------------------------------------=[ IdFactory ]
-[26-08-2025 02:08:35]	INFO	Updated characters online status.
-[26-08-2025 02:08:35]	INFO	Cleaned 0 elements from database.
-[26-08-2025 02:08:35]	INFO	Cleaned 0 expired timestamps from database.
-[26-08-2025 02:08:35]	INFO	Initializing 102912 objectIds pool, with 10 used ids.
-[26-08-2025 02:08:35]	INFO	--------------------------------------------------------------------=[ Cache ]
-[26-08-2025 02:08:35]	INFO	Loaded 0 crests.
-[26-08-2025 02:08:35]	INFO	--------------------------------------------------------------------=[ World ]
-[26-08-2025 02:08:35]	INFO	World grid (176 by 256) is now set up.
-[26-08-2025 02:08:35]	INFO	Loaded 0 announcements.
-[26-08-2025 02:08:35]	INFO	Loaded 3 server variables.
-[26-08-2025 02:08:35]	INFO	-------------------------------------------------------------------=[ Skills ]
-[26-08-2025 02:08:39]	INFO	SkillTable: Loaded 29755 skills.
-[26-08-2025 02:08:40]	INFO	Loaded 117 fishing skills.
-[26-08-2025 02:08:40]	INFO	Loaded 64 clan skills.
-[26-08-2025 02:08:40]	INFO	Loaded 14550 enchant skills.
-[26-08-2025 02:08:40]	INFO	--------------------------------------------------------------------=[ Items ]
-[26-08-2025 02:08:42]	INFO	Loaded items.
-[26-08-2025 02:08:42]	INFO	Loaded 13 summon items.
-[26-08-2025 02:08:42]	INFO	Loaded 180 hennas.
-[26-08-2025 02:08:42]	INFO	Loaded 687 buyLists.
-[26-08-2025 02:08:43]	INFO	Loaded 111 multisell.
-[26-08-2025 02:08:43]	INFO	Loaded 871 recipes.
-[26-08-2025 02:08:43]	INFO	Loaded 51 armor sets.
-[26-08-2025 02:08:43]	INFO	Loaded 270 fish.
-[26-08-2025 02:08:43]	INFO	Loaded 334 spellbooks.
-[26-08-2025 02:08:44]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[26-08-2025 02:08:44]	INFO	Loaded 4 sets of augmentation stats.
-[26-08-2025 02:08:44]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[26-08-2025 02:08:44]	INFO	Loaded 2 cursed weapons.
-[26-08-2025 02:08:44]	INFO	Loaded 9176 icons.
-[26-08-2025 02:08:44]	INFO	-------------------------------------------------------------------=[ Admins ]
-[26-08-2025 02:08:44]	INFO	Loaded 10 access levels.
-[26-08-2025 02:08:44]	INFO	Loaded 113 admin command rights.
-[26-08-2025 02:08:44]	INFO	Loaded 0 bookmarks.
-[26-08-2025 02:08:44]	INFO	Loaded 0 petitions.
-[26-08-2025 02:08:44]	INFO	---------------------------------------------------------------=[ Characters ]
-[26-08-2025 02:08:44]	INFO	Loaded 89 player classes templates.
-[26-08-2025 02:08:44]	INFO	Loaded 4 player infos.
-[26-08-2025 02:08:44]	INFO	Loaded 81 player levels.
-[26-08-2025 02:08:44]	INFO	Loaded 1 RaidPoints entries.
-[26-08-2025 02:08:44]	INFO	Loaded 29 healSps entries.
-[26-08-2025 02:08:44]	INFO	Loaded 92 restart areas and 36 restart points.
-[26-08-2025 02:08:44]	INFO	AIOTaskManager: Iniciado con verificación cada 60 segundos.
-[26-08-2025 02:08:44]	INFO	---------------------------------------------------------=[ Community server ]
-[26-08-2025 02:08:44]	INFO	Loaded 0 forums.
-[26-08-2025 02:08:44]	INFO	--------------------------------------------------------------------=[ Clans ]
-[26-08-2025 02:08:44]	INFO	Loaded 0 clans.
-[26-08-2025 02:08:44]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
-[26-08-2025 02:08:45]	WARNING	Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
-[26-08-2025 02:08:45]	WARNING	Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
-[26-08-2025 02:08:51]	INFO	Loaded 139 L2J region files.
-[26-08-2025 02:08:51]	INFO	--------------------------------------------------------------------=[ Zones ]
-[26-08-2025 02:08:58]	INFO	Loaded 24 zones classes and total 1018 zones.
-[26-08-2025 02:08:58]	INFO	--------------------------------------------------------------------=[ Doors ]
-[26-08-2025 02:08:58]	INFO	Loaded 547 doors templates.
-[26-08-2025 02:08:58]	INFO	-----------------------------------------------------=[ Castles & Clan Halls ]
-[26-08-2025 02:09:00]	INFO	Loaded 9 castles.
-[26-08-2025 02:09:00]	INFO	Loaded 73 clan halls decos.
-[26-08-2025 02:09:00]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
-[26-08-2025 02:09:00]	INFO	Loaded 3 evolution skills
-[26-08-2025 02:09:00]	INFO	------------------------------------------------------------=[ Task Managers ]
-[26-08-2025 02:09:01]	INFO	Restored 0 items on ground.
-[26-08-2025 02:09:01]	INFO	--------------------------------------------------------------=[ Seven Signs ]
-[26-08-2025 02:09:01]	INFO	Currently on Competition (Quest Event) period.
-[26-08-2025 02:09:01]	INFO	The Seal of Avarice remains unclaimed.
-[26-08-2025 02:09:01]	INFO	The Seal of Gnosis remains unclaimed.
-[26-08-2025 02:09:01]	INFO	The Seal of Strife remains unclaimed.
-[26-08-2025 02:09:01]	INFO	The Seven Signs competition will end in a tie this week.
-[26-08-2025 02:09:01]	INFO	Next Seven Signs period change set to Mon Sep 01 18:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:01]	INFO	Next Seven Signs period begins in 6 days, 15 hours and 50 mins.
-[26-08-2025 02:09:01]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
-[26-08-2025 02:09:01]	INFO	------------------------------------------------------------=[ Manor Manager ]
-[26-08-2025 02:09:01]	INFO	Loaded 121 manor areas.
-[26-08-2025 02:09:01]	INFO	Loaded 246 seeds.
-[26-08-2025 02:09:01]	INFO	---------------------------------------------------------------------=[ NPCs ]
-[26-08-2025 02:09:01]	INFO	Loaded 60 available buffs.
-[26-08-2025 02:09:04]	INFO	Loaded 6506 NPC templates.
-[26-08-2025 02:09:04]	INFO	Loaded 132 walking routes.
-[26-08-2025 02:09:04]	INFO	Loaded 29 static objects.
-[26-08-2025 02:09:04]	INFO	Loaded 205 spawn data.
-[26-08-2025 02:09:08]	INFO	Loaded 9706 territories.
-[26-08-2025 02:09:08]	INFO	Loaded 10072 NPC makers.
-[26-08-2025 02:09:08]	SEVERE	Error in doSpawn for NPC 20015: 
-[26-08-2025 02:09:08]	SEVERE	Error in doSpawn for NPC 20001: 
-[26-08-2025 02:09:08]	SEVERE	Error in doSpawn for NPC 50024: 
-[26-08-2025 02:09:08]	SEVERE	Error in doSpawn for NPC 50023: 
-[26-08-2025 02:09:08]	SEVERE	Error in doSpawn for NPC 50000: 
-[26-08-2025 02:09:08]	INFO	Successfully loaded 5 custom spawns from database.
-[26-08-2025 02:09:08]	INFO	Loaded 5 custom spawns.
-[26-08-2025 02:09:08]	INFO	Loaded 14 newbie buffs.
-[26-08-2025 02:09:08]	INFO	Loaded 74 instant teleport positions.
-[26-08-2025 02:09:08]	INFO	Loaded 117 teleport positions.
-[26-08-2025 02:09:09]	INFO	Loaded 13 observer groups and 25 spawns.
-[26-08-2025 02:09:09]	INFO	----------------------------------------------------------------=[ TvT Event ]
-[26-08-2025 02:09:09]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
-[26-08-2025 02:09:09]	INFO	Loaded 22 stadiums.
-[26-08-2025 02:09:09]	INFO	Loaded 0 nobles.
-[26-08-2025 02:09:09]	INFO	Loaded 0 heroes and 0 all time heroes.
-[26-08-2025 02:09:09]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
-[26-08-2025 02:09:09]	INFO	Bandit Stronghold siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Devastated Castle siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Fortress of Resistance siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Fortress of the Dead siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Rainbow Springs Chateau siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Wild Beast Reserve siege scheduled for Sun Aug 31 12:00:00 GMT-03:00 2025.
-[26-08-2025 02:09:09]	INFO	Loaded 857 regular scripts and 6 scheduled scripts.
-[26-08-2025 02:09:09]	INFO	PcBang point event started.
-[26-08-2025 02:09:09]	INFO	Loaded 5 boat itineraries.
-[26-08-2025 02:09:09]	INFO	-------------------------------------------------------------------=[ Events ]
-[26-08-2025 02:09:09]	INFO	Loaded 50 Derby Track records, currently on race #51.
-[26-08-2025 02:09:09]	INFO	Loaded 0 couples.
-[26-08-2025 02:09:09]	INFO	-------------------------------------------------------------------=[ Spawns ]
-[26-08-2025 02:09:10]	WARNING	Territory name "schuttgart16_2214_10", wrong Z 10, wrong geo 0
-[26-08-2025 02:09:11]	WARNING	Territory name "rune09_2116_25", wrong Z 3, wrong geo 7
-[26-08-2025 02:09:13]	INFO	Spawned 30325 NPCs.
-[26-08-2025 02:09:13]	INFO	Spawned 462 "extra_mob" NPCs.
-[26-08-2025 02:09:13]	INFO	Spawned 18 "18age" NPCs.
-[26-08-2025 02:09:13]	INFO	Spawned 12 "start_weapon" NPCs.
-[26-08-2025 02:09:13]	INFO	Spawned 2616 Seven Signs - Event NPCs.
-[26-08-2025 02:09:13]	INFO	Loaded {1} Party Farm spawns.
-[26-08-2025 02:09:13]	INFO	-----------------------------------------------------------------=[ Handlers ]
-[26-08-2025 02:09:13]	INFO	Loaded 112 admin command handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 13 chat handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 27 item handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 74 skill handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 25 target handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 23 voiced command handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 15 user command handlers.
-[26-08-2025 02:09:13]	INFO	Loaded 23 voiced command handlers.
-[26-08-2025 02:09:13]	INFO	-------------------------------------------------------------------=[ System ]
-[26-08-2025 02:09:13]	INFO	Server crashed on last session!
-[26-08-2025 02:09:13]	INFO	Gameserver has started, used memory: 1318 / 2048 Mo.
-[26-08-2025 02:09:13]	INFO	Maximum allowed players: 500.
-[26-08-2025 02:09:13]	INFO	--------------------------------------------------------------------=[ Login ]
-[26-08-2025 02:09:13]	INFO	Connecting to login on 127.0.0.1:9014.
-[26-08-2025 02:09:15]	INFO	Registered as server: [1] Bartz.
-[26-08-2025 02:24:10]	INFO	DarkGm has logged in with Master access level.
-[26-08-2025 02:25:02]	INFO	Loaded 10 access levels.
-[26-08-2025 02:25:02]	INFO	Loaded 113 admin command rights.
-[26-08-2025 02:27:56]	INFO	DarkGm has logged in with Master access level.
-[26-08-2025 02:28:13]	INFO	DarkGm has logged in with Master access level.
+[21-09-2025 22:15:52]	INFO	-------------------------------------------------------------------=[ Config ]
+[21-09-2025 22:15:52]	INFO	Loading gameserver configuration files.
+[21-09-2025 22:15:53]	INFO	------------------------------------------------------------------=[ Poolers ]
+[21-09-2025 22:15:54]	INFO	Initializing ConnectionPool.
+[21-09-2025 22:15:54]	INFO	ThreadPool initialization complete.
+[21-09-2025 22:15:54]	INFO	Total threads started and ready to use: 48
+[21-09-2025 22:15:54]	INFO	FakePcsTable: Loaded 1 NPC to PC templates.
+[21-09-2025 22:15:54]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[21-09-2025 22:15:54]	INFO	Updated characters online status.
+[21-09-2025 22:15:55]	INFO	Cleaned 0 elements from database.
+[21-09-2025 22:15:55]	INFO	Cleaned 0 expired timestamps from database.
+[21-09-2025 22:15:55]	INFO	Initializing 102912 objectIds pool, with 51 used ids.
+[21-09-2025 22:15:55]	INFO	--------------------------------------------------------------------=[ Cache ]
+[21-09-2025 22:15:55]	INFO	Loaded 0 crests.
+[21-09-2025 22:15:55]	INFO	--------------------------------------------------------------------=[ World ]
+[21-09-2025 22:15:55]	INFO	World grid (176 by 256) is now set up.
+[21-09-2025 22:15:55]	INFO	Loaded 0 announcements.
+[21-09-2025 22:15:55]	INFO	Loaded 3 server variables.
+[21-09-2025 22:15:55]	INFO	-------------------------------------------------------------------=[ Skills ]
+[21-09-2025 22:16:01]	INFO	SkillTable: Loaded 29755 skills.
+[21-09-2025 22:16:02]	INFO	Loaded 117 fishing skills.
+[21-09-2025 22:16:02]	INFO	Loaded 64 clan skills.
+[21-09-2025 22:16:02]	INFO	Loaded 14550 enchant skills.
+[21-09-2025 22:16:02]	INFO	--------------------------------------------------------------------=[ Items ]
+[21-09-2025 22:16:04]	INFO	Loaded items.
+[21-09-2025 22:16:04]	INFO	Loaded 13 summon items.
+[21-09-2025 22:16:04]	INFO	Loaded 180 hennas.
+[21-09-2025 22:16:04]	INFO	Loaded 687 buyLists.
+[21-09-2025 22:16:06]	INFO	Loaded 111 multisell.
+[21-09-2025 22:16:06]	INFO	Loaded 871 recipes.
+[21-09-2025 22:16:06]	INFO	Loaded 51 armor sets.
+[21-09-2025 22:16:06]	INFO	Loaded 270 fish.
+[21-09-2025 22:16:06]	INFO	Loaded 334 spellbooks.
+[21-09-2025 22:16:06]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[21-09-2025 22:16:06]	INFO	Loaded 4 sets of augmentation stats.
+[21-09-2025 22:16:06]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[21-09-2025 22:16:06]	INFO	Loaded 2 cursed weapons.
+[21-09-2025 22:16:06]	INFO	Loaded 9176 icons.
+[21-09-2025 22:16:06]	INFO	-------------------------------------------------------------------=[ Admins ]
+[21-09-2025 22:16:06]	INFO	Loaded 10 access levels.
+[21-09-2025 22:16:06]	INFO	Loaded 113 admin command rights.
+[21-09-2025 22:16:06]	INFO	Loaded 0 bookmarks.
+[21-09-2025 22:16:06]	INFO	Loaded 0 petitions.
+[21-09-2025 22:16:06]	INFO	---------------------------------------------------------------=[ Characters ]
+[21-09-2025 22:16:07]	INFO	Loaded 89 player classes templates.
+[21-09-2025 22:16:07]	INFO	Loaded 7 player infos.
+[21-09-2025 22:16:07]	INFO	Loaded 81 player levels.
+[21-09-2025 22:16:07]	INFO	Loaded 1 RaidPoints entries.
+[21-09-2025 22:16:07]	INFO	Loaded 29 healSps entries.
+[21-09-2025 22:16:07]	INFO	Loaded 92 restart areas and 36 restart points.
+[21-09-2025 22:16:07]	INFO	AIOTaskManager: Iniciado con verificación cada 60 segundos.
+[21-09-2025 22:16:07]	INFO	---------------------------------------------------------=[ Community server ]
+[21-09-2025 22:16:07]	INFO	Loaded 0 forums.
+[21-09-2025 22:16:07]	INFO	--------------------------------------------------------------------=[ Clans ]
+[21-09-2025 22:16:07]	INFO	Loaded 0 clans.
+[21-09-2025 22:16:07]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[21-09-2025 22:16:10]	WARNING	Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
+[21-09-2025 22:16:11]	WARNING	Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
+[21-09-2025 22:16:21]	INFO	Loaded 139 L2J region files.
+[21-09-2025 22:16:21]	INFO	--------------------------------------------------------------------=[ Zones ]
+[21-09-2025 22:16:36]	INFO	Loaded 24 zones classes and total 1019 zones.
+[21-09-2025 22:16:36]	INFO	--------------------------------------------------------------------=[ Doors ]
+[21-09-2025 22:16:37]	INFO	Loaded 547 doors templates.
+[21-09-2025 22:16:38]	INFO	-----------------------------------------------------=[ Castles & Clan Halls ]
+[21-09-2025 22:16:45]	INFO	Loaded 9 castles.
+[21-09-2025 22:16:45]	INFO	Loaded 73 clan halls decos.
+[21-09-2025 22:16:45]	INFO	Loaded 44 clan halls and 6 siegable clan halls.
+[21-09-2025 22:16:46]	INFO	Loaded 3 evolution skills
+[21-09-2025 22:16:46]	INFO	------------------------------------------------------------=[ Task Managers ]
+[21-09-2025 22:16:46]	INFO	Restored 0 items on ground.
+[21-09-2025 22:16:46]	INFO	--------------------------------------------------------------=[ Seven Signs ]
+[21-09-2025 22:16:47]	INFO	Currently on Competition (Quest Event) period.
+[21-09-2025 22:16:47]	INFO	The Seal of Avarice remains unclaimed.
+[21-09-2025 22:16:47]	INFO	The Seal of Gnosis remains unclaimed.
+[21-09-2025 22:16:47]	INFO	The Seal of Strife remains unclaimed.
+[21-09-2025 22:16:47]	INFO	The Seven Signs competition will end in a tie this week.
+[21-09-2025 22:16:47]	INFO	Next Seven Signs period change set to Mon Sep 22 18:00:00 GMT-03:00 2025.
+[21-09-2025 22:16:47]	INFO	Next Seven Signs period begins in 0 days, 19 hours and 43 mins.
+[21-09-2025 22:16:47]	INFO	The first Festival of Darkness cycle begins in 2 minute(s).
+[21-09-2025 22:16:47]	INFO	------------------------------------------------------------=[ Manor Manager ]
+[21-09-2025 22:16:47]	INFO	Loaded 121 manor areas.
+[21-09-2025 22:16:47]	INFO	Loaded 246 seeds.
+[21-09-2025 22:16:47]	INFO	---------------------------------------------------------------------=[ NPCs ]
+[21-09-2025 22:16:47]	INFO	Loaded 60 available buffs.
+[21-09-2025 22:16:53]	INFO	Loaded 6507 NPC templates.
+[21-09-2025 22:16:53]	INFO	Loaded 132 walking routes.
+[21-09-2025 22:16:53]	INFO	Loaded 29 static objects.
+[21-09-2025 22:16:53]	INFO	Loaded 205 spawn data.
+[21-09-2025 22:17:12]	INFO	Loaded 9706 territories.
+[21-09-2025 22:17:12]	INFO	Loaded 10072 NPC makers.
+[21-09-2025 22:17:12]	INFO	Successfully loaded 6 custom spawns from database.
+[21-09-2025 22:17:12]	INFO	Loaded 6 custom spawns.
+[21-09-2025 22:17:12]	INFO	Loaded 14 newbie buffs.
+[21-09-2025 22:17:12]	INFO	Loaded 74 instant teleport positions.
+[21-09-2025 22:17:12]	INFO	Loaded 117 teleport positions.
+[21-09-2025 22:17:12]	INFO	Loaded 13 observer groups and 25 spawns.
+[21-09-2025 22:17:12]	INFO	----------------------------------------------------------------=[ TvT Event ]
+[21-09-2025 22:17:12]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
+[21-09-2025 22:17:12]	INFO	Loaded 22 stadiums.
+[21-09-2025 22:17:12]	INFO	Loaded 0 nobles.
+[21-09-2025 22:17:13]	INFO	Loaded 0 heroes and 0 all time heroes.
+[21-09-2025 22:17:13]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
+[21-09-2025 22:17:14]	INFO	Bandit Stronghold siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Devastated Castle siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Fortress of Resistance siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Fortress of the Dead siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Rainbow Springs Chateau siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Wild Beast Reserve siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+[21-09-2025 22:17:14]	INFO	Loaded 857 regular scripts and 6 scheduled scripts.
+[21-09-2025 22:17:14]	INFO	PcBang point event started.
+[21-09-2025 22:17:14]	INFO	Loaded 5 boat itineraries.
+[21-09-2025 22:17:14]	INFO	-------------------------------------------------------------------=[ Events ]
+[21-09-2025 22:17:14]	INFO	Loaded 63 Derby Track records, currently on race #64.
+[21-09-2025 22:17:14]	INFO	Loaded 0 couples.
+[21-09-2025 22:17:14]	INFO	-------------------------------------------------------------------=[ Spawns ]
+[21-09-2025 22:17:16]	WARNING	Territory name "lyonn05_2014_22", wrong Z 6, wrong geo 4
+[21-09-2025 22:17:24]	INFO	Spawned 30319 NPCs.
+[21-09-2025 22:17:24]	INFO	Spawned 462 "extra_mob" NPCs.
+[21-09-2025 22:17:24]	INFO	Spawned 18 "18age" NPCs.
+[21-09-2025 22:17:24]	INFO	Spawned 12 "start_weapon" NPCs.
+[21-09-2025 22:17:25]	INFO	Spawned 2616 Seven Signs - Event NPCs.
+[21-09-2025 22:17:25]	INFO	Loaded {1} Party Farm spawns.
+[21-09-2025 22:17:25]	INFO	-----------------------------------------------------------------=[ Handlers ]
+[21-09-2025 22:17:25]	INFO	Loaded 112 admin command handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 13 chat handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 27 item handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 74 skill handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 25 target handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 23 voiced command handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 15 user command handlers.
+[21-09-2025 22:17:25]	INFO	Loaded 23 voiced command handlers.
+[21-09-2025 22:17:25]	INFO	-------------------------------------------------------------------=[ System ]
+[21-09-2025 22:17:25]	INFO	Server crashed on last session!
+[21-09-2025 22:17:25]	INFO	Gameserver has started, used memory: 1319 / 2048 Mo.
+[21-09-2025 22:17:25]	INFO	Maximum allowed players: 500.
+[21-09-2025 22:17:25]	INFO	--------------------------------------------------------------------=[ Login ]
+[21-09-2025 22:17:25]	INFO	Connecting to login on 127.0.0.1:9014.
+[21-09-2025 22:17:26]	INFO	Registered as server: [1] Bartz.
+[21-09-2025 22:18:41]	INFO	DarkGm has logged in with Master access level.
+[21-09-2025 22:19:10]	INFO	Saved boss zones data.
+[21-09-2025 22:19:35]	INFO	Loaded 24 zones classes and total 1019 zones.
+[21-09-2025 22:24:05]	INFO	HtmCache has been cleared (7 entries).
+[21-09-2025 22:26:43]	INFO	DarkGm has logged in with Master access level.
