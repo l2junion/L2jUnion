@@ -23,12 +23,52 @@ se agrego npc de ventas de npc por xml en armas
 
 
 
-//comandos  y cosas agregadas 
+//comandos  y cosas agregadas
+ 
+properti de mods de L2jUnion : L2jUnion\gameserver\data\Mods_L2jUnion\L2jUnion.ini
 
 
 bypas de gk para zona random
 <button value="Ir a PvP Zone" action="bypass -h pvp" width=120 height=25 back="L2UI_ch3.button_df" fore="L2UI_ch3.button_df" />
 y se fixeo el systema randomzone
 
-
 systema ANTI_HEAVY
+
+// comandos de voz 
+
+auto farm : .autofarm
+tvt : .tvtjoin	.tvtleave	.tvtstatus
+depositar y retirar adena en item : .depositar	.retirar
+doble click : .nick2 + nick   para pararlo .offnick
+desabilitar exp por comando o menu : .xpon	.xpoff	.menu  [ruta del htm data/html/mods/menu/player_panel.htm"]
+
+//comandos de admins 
+
+<aCar name="admin_removevip" accessLevel="1" params="" desc="te quita vip."/>
+<aCar name="admin_setvip" accessLevel="1" params="" desc="te da vip."/>
+<!-- vasiarinventario -->
+<aCar name="admin_limpiar_inventario" accessLevel="1" params="" desc="se saco todo"/>
+	<!-- AIO COMMANDS -->
+<aCar name="admin_aio" accessLevel="7" params="" desc="Activa el estado AIO completo en el jugador objetivo."/>
+<aCar name="admin_removeaio" accessLevel="7" params="" desc="Activa el estado AIO Bronce en el jugador objetivo."/>
+[ubicacion del xml es L2jUnion\gameserver\data\xml\adminCommands.xml]
+
+
+id de npc custom y su ruta 
+
+gameserver/data/npc
+
+id 
+50000 
+50001
+50002
+50005
+50006
+50007
+50021
+50022
+50023
+50024
+50025
+
+
