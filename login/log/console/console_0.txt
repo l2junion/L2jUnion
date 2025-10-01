@@ -1,18 +1,17 @@
-[22-09-2025 02:12:40]	INFO	-------------------------------------------------------------------=[ Config ]
-[22-09-2025 02:12:40]	INFO	Loading loginserver configuration files.
-[22-09-2025 02:12:40]	INFO	------------------------------------------------------------------=[ Poolers ]
-[22-09-2025 02:12:41]	INFO	Initializing ConnectionPool.
-[22-09-2025 02:12:41]	INFO	----------------------------------------------------------=[ LoginController ]
-[22-09-2025 02:12:42]	INFO	Cached 10 KeyPairs for RSA communication.
-[22-09-2025 02:12:42]	INFO	Stored 20 keys for Blowfish communication.
-[22-09-2025 02:12:42]	INFO	--------------------------------------------------------=[ GameServerManager ]
-[22-09-2025 02:12:43]	INFO	Loaded 127 server names.
-[22-09-2025 02:12:43]	INFO	Loaded 1 registered gameserver(s).
-[22-09-2025 02:12:43]	INFO	Cached 10 RSA keys for gameserver communication.
-[22-09-2025 02:12:43]	INFO	-----------------------------------------------------------------=[ Ban List ]
-[22-09-2025 02:12:43]	INFO	Loaded 0 banned IP(s).
-[22-09-2025 02:12:43]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
-[22-09-2025 02:12:43]	INFO	Listening for gameservers on *:9014.
-[22-09-2025 02:12:43]	INFO	Loginserver ready on *:2106.
-[22-09-2025 02:12:43]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
-[22-09-2025 02:13:33]	INFO	Hooked [1] Bartz gameserver on: 127.0.0.1.
+[01-10-2025 13:10:27]	INFO	-------------------------------------------------------------------=[ Config ]
+[01-10-2025 13:10:27]	INFO	Loading loginserver configuration files.
+[01-10-2025 13:10:27]	INFO	------------------------------------------------------------------=[ Poolers ]
+[01-10-2025 13:10:27]	INFO	Initializing ConnectionPool.
+[01-10-2025 13:10:27]	INFO	----------------------------------------------------------=[ LoginController ]
+[01-10-2025 13:10:28]	INFO	Cached 10 KeyPairs for RSA communication.
+[01-10-2025 13:10:28]	INFO	Stored 20 keys for Blowfish communication.
+[01-10-2025 13:10:28]	INFO	--------------------------------------------------------=[ GameServerManager ]
+[01-10-2025 13:10:29]	INFO	Loaded 127 server names.
+[01-10-2025 13:10:29]	INFO	Loaded 0 registered gameserver(s).
+[01-10-2025 13:10:29]	INFO	Cached 10 RSA keys for gameserver communication.
+[01-10-2025 13:10:29]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[01-10-2025 13:10:29]	INFO	Loaded 0 banned IP(s).
+[01-10-2025 13:10:29]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[01-10-2025 13:10:29]	INFO	Listening for gameservers on *:9014.
+[01-10-2025 13:10:29]	INFO	Loginserver ready on *:2106.
+[01-10-2025 13:10:29]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]

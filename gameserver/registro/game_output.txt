@@ -9,7 +9,7 @@ FakePcsTable: Loaded 1 NPC to PC templates.
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 58 used ids.
+Initializing 102912 objectIds pool, with 70 used ids.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -43,7 +43,7 @@ Loaded 0 bookmarks.
 Loaded 0 petitions.
 ---------------------------------------------------------------=[ Characters ]
 Loaded 89 player classes templates.
-Loaded 8 player infos.
+Loaded 9 player infos.
 Loaded 81 player levels.
 Loaded 1 RaidPoints entries.
 Loaded 29 healSps entries.
@@ -63,6 +63,15 @@ Loaded 24 zones classes and total 1019 zones.
 Loaded 547 doors templates.
 -----------------------------------------------------=[ Castles & Clan Halls ]
 Loaded 9 castles.
+New date for Gludio Castle siege: Sat Oct 18 18:00:00 GMT-03:00 2025.
+New date for Dion Castle siege: Sat Oct 18 18:00:00 GMT-03:00 2025.
+New date for Giran Castle siege: Sun Oct 19 18:00:00 GMT-03:00 2025.
+New date for Oren Castle siege: Sun Oct 19 18:00:00 GMT-03:00 2025.
+New date for Aden Castle siege: Sat Oct 18 18:00:00 GMT-03:00 2025.
+New date for Innadril Castle siege: Sun Oct 19 18:00:00 GMT-03:00 2025.
+New date for Goddard Castle siege: Sun Oct 19 18:00:00 GMT-03:00 2025.
+New date for Rune Castle siege: Sat Oct 18 18:00:00 GMT-03:00 2025.
+New date for Schuttgart Castle siege: Sat Oct 18 18:00:00 GMT-03:00 2025.
 Loaded 73 clan halls decos.
 Loaded 44 clan halls and 6 siegable clan halls.
 Loaded 3 evolution skills
@@ -74,22 +83,21 @@ The Seal of Avarice remains unclaimed.
 The Seal of Gnosis remains unclaimed.
 The Seal of Strife remains unclaimed.
 The Seven Signs competition will end in a tie this week.
-Next Seven Signs period change set to Mon Sep 22 18:00:00 GMT-03:00 2025.
-Next Seven Signs period begins in 0 days, 15 hours and 53 mins.
+Next Seven Signs period is already computed.
+Next Seven Signs period begins in 0 days, 0 hours and 0 mins.
 The first Festival of Darkness cycle begins in 2 minute(s).
 ------------------------------------------------------------=[ Manor Manager ]
 Loaded 121 manor areas.
+Loaded 205 spawn data.
 Loaded 246 seeds.
 ---------------------------------------------------------------------=[ NPCs ]
 Loaded 60 available buffs.
 Loaded 6507 NPC templates.
 Loaded 132 walking routes.
 Loaded 29 static objects.
-Loaded 205 spawn data.
 Loaded 9706 territories.
 Loaded 10072 NPC makers.
-Successfully loaded 6 custom spawns from database.
-Loaded 6 custom spawns.
+Loaded 0 custom spawns.
 Loaded 14 newbie buffs.
 Loaded 74 instant teleport positions.
 Loaded 117 teleport positions.
@@ -99,28 +107,33 @@ TvTEventEngine[TvTManager.TvTManager()]: Engine is disabled.
 -------------------------------------------------------=[ Olympiads & Heroes ]
 Loaded 22 stadiums.
 Loaded 0 nobles.
+Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
 Loaded 0 heroes and 0 all time heroes.
 ---------------------------------------------------------=[ Quests & Scripts ]
-Bandit Stronghold siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
-Devastated Castle siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
-Fortress of Resistance siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
-Fortress of the Dead siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
-Rainbow Springs Chateau siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
-Wild Beast Reserve siege scheduled for Tue Sep 23 12:00:00 GMT-03:00 2025.
+Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
+The Quest Event Results period of Seven Signs has begun.
+Next Seven Signs period change set to Wed Oct 01 13:25:53 GMT-03:00 2025.
+Bandit Stronghold siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
+Devastated Castle siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
+Fortress of Resistance siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
+Fortress of the Dead siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
+Rainbow Springs Chateau siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
+Wild Beast Reserve siege scheduled for Wed Oct 15 12:00:00 GMT-03:00 2025.
 Loaded 857 regular scripts and 6 scheduled scripts.
 PcBang point event started.
 Loaded 5 boat itineraries.
 -------------------------------------------------------------------=[ Events ]
-Loaded 63 Derby Track records, currently on race #64.
+Loaded 64 Derby Track records, currently on race #65.
 Loaded 0 couples.
+A new Fishing Championship event period has started.
 -------------------------------------------------------------------=[ Spawns ]
-Territory name "lyonn05_2014_22", wrong Z 4, wrong geo 6
-Territory name "godard10_mb2514_03", wrong Z 10, wrong geo 0
-Spawned 30321 NPCs.
+Territory name "rune09_2116_25", wrong Z 2, wrong geo 8
+Spawned 30338 NPCs.
 Spawned 462 "extra_mob" NPCs.
 Spawned 18 "18age" NPCs.
 Spawned 12 "start_weapon" NPCs.
-Spawned 2616 Seven Signs - Event NPCs.
+Spawned 1432 Seven Signs - Seal of Avarice NPCs, winning cabal none.
+Spawned 1190 Seven Signs - Seal of Gnosis NPCs, winning cabal none.
 Loaded {1} Party Farm spawns.
 -----------------------------------------------------------------=[ Handlers ]
 Loaded 112 admin command handlers.
@@ -133,10 +146,26 @@ Loaded 15 user command handlers.
 Loaded 23 voiced command handlers.
 -------------------------------------------------------------------=[ System ]
 Server crashed on last session!
-Gameserver has started, used memory: 1245 / 2048 Mo.
+Gameserver has started, used memory: 1390 / 2048 Mo.
 Maximum allowed players: 500.
 --------------------------------------------------------------------=[ Login ]
 Connecting to login on 127.0.0.1:9014.
-Registered as server: [1] Bartz.
-DarkGm has logged in with Master access level.
-TemporaryHeroTaskManager desactivado (KMFHTaskDelay = 0).
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.
+Connecting to login on 127.0.0.1:9014.
+LoginServer registration failed: Reason: wrong hexid.

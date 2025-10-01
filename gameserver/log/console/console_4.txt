@@ -1,60 +1,60 @@
-[21-09-2025 22:12:54]	INFO	-------------------------------------------------------------------=[ Config ]
-[21-09-2025 22:12:54]	INFO	Loading gameserver configuration files.
-[21-09-2025 22:12:54]	INFO	------------------------------------------------------------------=[ Poolers ]
-[21-09-2025 22:12:56]	INFO	Initializing ConnectionPool.
-[21-09-2025 22:12:56]	INFO	ThreadPool initialization complete.
-[21-09-2025 22:12:56]	INFO	Total threads started and ready to use: 48
-[21-09-2025 22:12:56]	INFO	FakePcsTable: Loaded 1 NPC to PC templates.
-[21-09-2025 22:12:56]	INFO	----------------------------------------------------------------=[ IdFactory ]
-[21-09-2025 22:12:56]	INFO	Updated characters online status.
-[21-09-2025 22:12:56]	INFO	Cleaned 0 elements from database.
-[21-09-2025 22:12:56]	INFO	Cleaned 0 expired timestamps from database.
-[21-09-2025 22:12:56]	INFO	Initializing 102912 objectIds pool, with 51 used ids.
-[21-09-2025 22:12:56]	INFO	--------------------------------------------------------------------=[ Cache ]
-[21-09-2025 22:12:56]	INFO	Loaded 0 crests.
-[21-09-2025 22:12:56]	INFO	--------------------------------------------------------------------=[ World ]
-[21-09-2025 22:12:56]	INFO	World grid (176 by 256) is now set up.
-[21-09-2025 22:12:56]	INFO	Loaded 0 announcements.
-[21-09-2025 22:12:56]	INFO	Loaded 3 server variables.
-[21-09-2025 22:12:56]	INFO	-------------------------------------------------------------------=[ Skills ]
-[21-09-2025 22:13:00]	INFO	SkillTable: Loaded 29755 skills.
-[21-09-2025 22:13:01]	INFO	Loaded 117 fishing skills.
-[21-09-2025 22:13:01]	INFO	Loaded 64 clan skills.
-[21-09-2025 22:13:01]	INFO	Loaded 14550 enchant skills.
-[21-09-2025 22:13:01]	INFO	--------------------------------------------------------------------=[ Items ]
-[21-09-2025 22:13:03]	INFO	Loaded items.
-[21-09-2025 22:13:03]	INFO	Loaded 13 summon items.
-[21-09-2025 22:13:03]	INFO	Loaded 180 hennas.
-[21-09-2025 22:13:03]	INFO	Loaded 687 buyLists.
-[21-09-2025 22:13:04]	INFO	Loaded 111 multisell.
-[21-09-2025 22:13:04]	INFO	Loaded 871 recipes.
-[21-09-2025 22:13:04]	INFO	Loaded 51 armor sets.
-[21-09-2025 22:13:04]	INFO	Loaded 270 fish.
-[21-09-2025 22:13:04]	INFO	Loaded 334 spellbooks.
-[21-09-2025 22:13:04]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
-[21-09-2025 22:13:04]	INFO	Loaded 4 sets of augmentation stats.
-[21-09-2025 22:13:04]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[21-09-2025 22:13:04]	INFO	Loaded 2 cursed weapons.
-[21-09-2025 22:13:04]	INFO	Loaded 9176 icons.
-[21-09-2025 22:13:04]	INFO	-------------------------------------------------------------------=[ Admins ]
-[21-09-2025 22:13:04]	INFO	Loaded 10 access levels.
-[21-09-2025 22:13:04]	INFO	Loaded 113 admin command rights.
-[21-09-2025 22:13:04]	INFO	Loaded 0 bookmarks.
-[21-09-2025 22:13:04]	INFO	Loaded 0 petitions.
-[21-09-2025 22:13:04]	INFO	---------------------------------------------------------------=[ Characters ]
-[21-09-2025 22:13:05]	INFO	Loaded 89 player classes templates.
-[21-09-2025 22:13:05]	INFO	Loaded 7 player infos.
-[21-09-2025 22:13:05]	INFO	Loaded 81 player levels.
-[21-09-2025 22:13:05]	INFO	Loaded 1 RaidPoints entries.
-[21-09-2025 22:13:05]	INFO	Loaded 29 healSps entries.
-[21-09-2025 22:13:05]	INFO	Loaded 92 restart areas and 36 restart points.
-[21-09-2025 22:13:05]	INFO	AIOTaskManager: Iniciado con verificación cada 60 segundos.
-[21-09-2025 22:13:05]	INFO	---------------------------------------------------------=[ Community server ]
-[21-09-2025 22:13:05]	INFO	Loaded 0 forums.
-[21-09-2025 22:13:05]	INFO	--------------------------------------------------------------------=[ Clans ]
-[21-09-2025 22:13:05]	INFO	Loaded 0 clans.
-[21-09-2025 22:13:05]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
-[21-09-2025 22:13:07]	WARNING	Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
-[21-09-2025 22:13:07]	WARNING	Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
-[21-09-2025 22:13:14]	INFO	Loaded 139 L2J region files.
-[21-09-2025 22:13:14]	INFO	--------------------------------------------------------------------=[ Zones ]
+[21-09-2025 22:15:08]	INFO	-------------------------------------------------------------------=[ Config ]
+[21-09-2025 22:15:08]	INFO	Loading gameserver configuration files.
+[21-09-2025 22:15:08]	INFO	------------------------------------------------------------------=[ Poolers ]
+[21-09-2025 22:15:10]	INFO	Initializing ConnectionPool.
+[21-09-2025 22:15:10]	INFO	ThreadPool initialization complete.
+[21-09-2025 22:15:10]	INFO	Total threads started and ready to use: 48
+[21-09-2025 22:15:10]	INFO	FakePcsTable: Loaded 1 NPC to PC templates.
+[21-09-2025 22:15:10]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[21-09-2025 22:15:11]	INFO	Updated characters online status.
+[21-09-2025 22:15:12]	INFO	Cleaned 0 elements from database.
+[21-09-2025 22:15:12]	INFO	Cleaned 0 expired timestamps from database.
+[21-09-2025 22:15:12]	INFO	Initializing 102912 objectIds pool, with 51 used ids.
+[21-09-2025 22:15:12]	INFO	--------------------------------------------------------------------=[ Cache ]
+[21-09-2025 22:15:12]	INFO	Loaded 0 crests.
+[21-09-2025 22:15:12]	INFO	--------------------------------------------------------------------=[ World ]
+[21-09-2025 22:15:12]	INFO	World grid (176 by 256) is now set up.
+[21-09-2025 22:15:12]	INFO	Loaded 0 announcements.
+[21-09-2025 22:15:12]	INFO	Loaded 3 server variables.
+[21-09-2025 22:15:12]	INFO	-------------------------------------------------------------------=[ Skills ]
+[21-09-2025 22:15:15]	INFO	SkillTable: Loaded 29755 skills.
+[21-09-2025 22:15:16]	INFO	Loaded 117 fishing skills.
+[21-09-2025 22:15:16]	INFO	Loaded 64 clan skills.
+[21-09-2025 22:15:16]	INFO	Loaded 14550 enchant skills.
+[21-09-2025 22:15:16]	INFO	--------------------------------------------------------------------=[ Items ]
+[21-09-2025 22:15:18]	INFO	Loaded items.
+[21-09-2025 22:15:18]	INFO	Loaded 13 summon items.
+[21-09-2025 22:15:18]	INFO	Loaded 180 hennas.
+[21-09-2025 22:15:18]	INFO	Loaded 687 buyLists.
+[21-09-2025 22:15:20]	INFO	Loaded 111 multisell.
+[21-09-2025 22:15:20]	INFO	Loaded 871 recipes.
+[21-09-2025 22:15:20]	INFO	Loaded 51 armor sets.
+[21-09-2025 22:15:20]	INFO	Loaded 270 fish.
+[21-09-2025 22:15:20]	INFO	Loaded 334 spellbooks.
+[21-09-2025 22:15:20]	INFO	Loaded 39 Soul Crystals data and 124 NPCs data.
+[21-09-2025 22:15:20]	INFO	Loaded 4 sets of augmentation stats.
+[21-09-2025 22:15:20]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[21-09-2025 22:15:20]	INFO	Loaded 2 cursed weapons.
+[21-09-2025 22:15:20]	INFO	Loaded 9176 icons.
+[21-09-2025 22:15:20]	INFO	-------------------------------------------------------------------=[ Admins ]
+[21-09-2025 22:15:20]	INFO	Loaded 10 access levels.
+[21-09-2025 22:15:20]	INFO	Loaded 113 admin command rights.
+[21-09-2025 22:15:20]	INFO	Loaded 0 bookmarks.
+[21-09-2025 22:15:20]	INFO	Loaded 0 petitions.
+[21-09-2025 22:15:20]	INFO	---------------------------------------------------------------=[ Characters ]
+[21-09-2025 22:15:20]	INFO	Loaded 89 player classes templates.
+[21-09-2025 22:15:21]	INFO	Loaded 7 player infos.
+[21-09-2025 22:15:21]	INFO	Loaded 81 player levels.
+[21-09-2025 22:15:21]	INFO	Loaded 1 RaidPoints entries.
+[21-09-2025 22:15:21]	INFO	Loaded 29 healSps entries.
+[21-09-2025 22:15:21]	INFO	Loaded 92 restart areas and 36 restart points.
+[21-09-2025 22:15:21]	INFO	AIOTaskManager: Iniciado con verificación cada 60 segundos.
+[21-09-2025 22:15:21]	INFO	---------------------------------------------------------=[ Community server ]
+[21-09-2025 22:15:21]	INFO	Loaded 0 forums.
+[21-09-2025 22:15:21]	INFO	--------------------------------------------------------------------=[ Clans ]
+[21-09-2025 22:15:21]	INFO	Loaded 0 clans.
+[21-09-2025 22:15:21]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[21-09-2025 22:15:22]	WARNING	Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
+[21-09-2025 22:15:23]	WARNING	Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
+[21-09-2025 22:15:28]	INFO	Loaded 139 L2J region files.
+[21-09-2025 22:15:28]	INFO	--------------------------------------------------------------------=[ Zones ]
