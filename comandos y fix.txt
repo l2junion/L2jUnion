@@ -78,3 +78,4 @@ el hander es <set name="handler" val="ComboBoxHandler" />
 
 
 Agregado Formulas !
+Agregado C:\Users\eltet\Desktop\trabajo l2junion\Publico\L2jUnion\gameserver\data\Mods_L2jUnion\scrips_npc y ahi pones los npc para q peguen
