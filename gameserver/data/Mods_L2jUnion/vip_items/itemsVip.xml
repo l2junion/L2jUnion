@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <!-- VIP Básico -->
+    <item id="3470" hours="1"/>   <!-- 1 día de VIP -->
+    <item id="6392" hours="2"/>  <!-- 1 semana de VIP (7 días) -->
+    <item id="6675" hours="720"/>  <!-- 1 mes de VIP (30 días) -->
+    <item id="6676" hours="2160"/> <!-- 3 meses de VIP (90 días) -->
+    
+    <!-- VIP Premium (ejemplos) -->
+    <item id="6677" hours="240"/>  <!-- 10 días VIP Premium -->
+    <item id="6678" hours="7200"/> <!-- 1 año VIP Premium (300 días) -->
+    
+    <!-- VIP Especiales -->
+    <item id="7001" hours="1"/>    <!-- VIP de prueba (1 hora) -->
+    <item id="7002" hours="2"/>    <!-- VIP corto (2 horas) -->
+    <item id="7003" hours="8760"/> <!-- VIP 1 año exacto (365 días) -->
+</list>

@@ -665,6 +665,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2209-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6571" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade B)">
 		<set name="default_action" val="skill_reduce" />
@@ -675,6 +676,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2028-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6572" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade B)">
 		<set name="default_action" val="skill_reduce" />
@@ -685,6 +687,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2210-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6573" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade C)">
 		<set name="default_action" val="skill_reduce" />
@@ -695,6 +698,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2029-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6574" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade C)">
 		<set name="default_action" val="skill_reduce" />
@@ -705,6 +709,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2211-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6575" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade D)">
 		<set name="default_action" val="skill_reduce" />
@@ -715,6 +720,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2030-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6576" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade D)">
 		<set name="default_action" val="skill_reduce" />
@@ -725,6 +731,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2212-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6577" type="EtcItem" name="Blessed Scroll: Enchant Weapon (Grade S)">
 		<set name="default_action" val="skill_reduce" />
@@ -735,6 +742,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2026-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6578" type="EtcItem" name="Blessed Scroll: Enchant Armor (Grade S)">
 		<set name="default_action" val="skill_reduce" />
@@ -745,6 +753,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2208-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="6579" type="Weapon" name="Arcana Mace">
 		<set name="is_magical" val="true" />

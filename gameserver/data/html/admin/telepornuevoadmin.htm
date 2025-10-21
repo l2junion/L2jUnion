@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>Teleport Menu</title>
+</head>
+<body>
+<table width=260>
+<tr>
+<td width=40><button value="Main" action="bypass -h admin_admin" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+<td width=180><center>Teleport Menu</center></td>
+<td width=40><button value="Back" action="bypass -h admin_admin" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<table width=276>
+<tr>
+<td width="161">Move to common locations:</td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/towns.htm"><font color="LEVEL">Towns</font></a></td>
+<td width="103"><a action="bypass -h admin_link teleport/others/arenas.htm"><font color="LEVEL">Arenas</font></a></td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/castles.htm"><font color="LEVEL">Castles</font></a></td>
+<td><a action="bypass -h admin_link teleport/others/necat.htm"><font color="LEVEL">Seven Signs</font></a></td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/other.htm"><font color="LEVEL">Other Locations</font></a></td>
+<td><a action="bypass -h admin_link teleport/others/dimrift.htm"><font color="LEVEL">Dimensional Rift</font></a></td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/locations/c2.htm"><font color="LEVEL">C2 Locations</font></a></td>
+<td><a action="bypass -h admin_link teleport/others/fortress.htm"><font color="LEVEL">Fortresses</font></a></td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/locations/c4.htm"><font color="LEVEL">C4 Locations</font></a></td>
+</tr>
+<tr>
+<td><a action="bypass -h admin_link teleport/locations/c5.htm"><font color="LEVEL">C5 Locations</font></a></td>
+</tr>
+<tr><td><a action="bypass -h admin_link teleport/locations/interlude.htm"><font color="LEVEL">Interlude</font></a></td>
+</tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<center><button value="More" action="bypass -h admin_tele" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2">
+
+<br>
+<br>
+
+Move to given Coords:
+<table width=260>
+<tr>
+<td width=15>X:</td>
+<td><edit var="char_cord_x" height=13 width=55></td>
+<td width=15>Y:</td>
+<td><edit var="char_cord_y" height=13 width=55></td>
+<td width=15>Z:</td>
+<td><edit var="char_cord_z" height=13 width=55></td>
+<td><button value="Go" action="bypass -h admin_move_to $char_cord_x $char_cord_y $char_cord_z" width=65 height=19 back="L2UI_ch3.smallbutton2_over" fore="L2UI_ch3.smallbutton2"></td>
+</tr></table>
+
+</center>
+</body>
+</html>

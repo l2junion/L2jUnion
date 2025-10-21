@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <wizard_ddmagic2>
+        <npc id="20092"/>
+        <npc id="20331"/>
+        <npc id="20426"/>
+        <npc id="20427"/>
+        <npc id="20428"/>
+        <npc id="20429"/>
+        <npc id="21257"/>
+        <npc id="21268"/>
+        <npc id="21281"/>
+        <npc id="21289"/>
+        <npc id="21681"/>
+        <npc id="21704"/>
+        <npc id="21727"/>
+        <npc id="21750"/>
+        <npc id="21773"/>
+        <npc id="21796"/>
+        <npc id="21024"/>
+        <npc id="20269"/>
+        <npc id="21277"/>
+        <npc id="20197"/>
+        <npc id="21110"/>
+        <npc id="20265"/>
+        <npc id="20059"/>
+        <npc id="20055"/>
+        <npc id="21640"/>
+        <npc id="21592"/>
+        <npc id="22021"/>
+        <npc id="22036"/>
+        <npc id="22044"/>
+        <npc id="22047"/>
+        <npc id="22081"/>
+        <npc id="22082"/>
+        <npc id="22034"/>
+        <npc id="22042"/>
+        <npc id="18147"/>
+    </wizard_ddmagic2>
+    
+    <wizard_ddmagic2_aggressive>
+        <npc id="21311"/>
+        <npc id="21285"/>
+        <npc id="21575"/>
+        <npc id="20813"/>
+        <npc id="21293"/>
+        <npc id="21416"/>
+        <npc id="21111"/>
+        <npc id="20052"/>
+        <npc id="27156"/>
+        <npc id="20044"/>
+        <npc id="21102"/>
+        <npc id="21399"/>
+        <npc id="20619"/>
+        <npc id="20420"/>
+        <npc id="20507"/>
+        <npc id="20835"/>
+        <npc id="21086"/>
+        <npc id="21088"/>
+        <npc id="21140"/>
+        <npc id="21152"/>
+        <npc id="21303"/>
+        <npc id="21608"/>
+        <npc id="21609"/>
+        <npc id="21610"/>
+        <npc id="21665"/>
+        <npc id="21688"/>
+        <npc id="21711"/>
+        <npc id="21734"/>
+        <npc id="21757"/>
+        <npc id="21780"/>
+        <npc id="27192"/>
+        <npc id="22111"/>
+    </wizard_ddmagic2_aggressive>
+</list>

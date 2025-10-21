@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<npc id="31688">
+		<appearance name="Zeus" name_color="FFFFFF" title="Olympiad Manager" title_color="FF9900" radius="9" height="22" race="0" sex="0" class="10" hair_style="0" hair_color="3" face="0" hero="1" enchant="21" />
+		<items right_hand="6579" left_hand="6377" chest="2407" legs="0" gloves="5767" feet="5779" hair="8563" hair2="0" />
+		<clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+	</npc>
+</list>

@@ -159,7 +159,7 @@
 			<skill id="4416" level="18" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50005" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
+	<npc id="50003" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="EvolutionMaster"/>
@@ -212,7 +212,7 @@
 			<skill id="4416" level="4" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50006" idTemplate="31228" name="pepito" title="TVT" alias="TvTEventNpc">
+	<npc id="50004" idTemplate="31228" name="pepito" title="TVT" alias="TvTEventNpc">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="TvTEventNpc"/>
@@ -265,60 +265,8 @@
 			<skill id="4416" level="4" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50007" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
-		<set name="usingServerSideName" val="true"/>
-		<set name="usingServerSideTitle" val="true"/>
-		<set name="type" val="EvolutionMaster"/>
-		<set name="level" val="70"/>
-		<set name="radius" val="9.0"/>
-		<set name="height" val="16.0"/>
-		<set name="hitTimeFactor" val="0.61"/>
-		<set name="rHand" val="0"/>
-		<set name="lHand" val="0"/>
-		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="0.0"/>
-		<set name="sp" val="10.0"/>
-		<set name="hp" val="2444.0"/>
-		<set name="mp" val="1493.0"/>
-		<set name="hpRegen" val="11.85"/>
-		<set name="mpRegen" val="2.78"/>
-		<set name="baseAttackRange" val="40"/>
-		<set name="baseDamageRange" val="0;0;80;120"/>
-		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="694.2"/>
-		<set name="pDef" val="296.1"/>
-		<set name="mAtk" val="468.0"/>
-		<set name="mDef" val="206.28"/>
-		<set name="crit" val="8.0"/>
-		<set name="atkSpd" val="247.42"/>
-		<set name="walkSpd" val="79.2"/>
-		<set name="runSpd" val="118.8"/>
-		<set name="str" val="40"/>
-		<set name="int" val="21"/>
-		<set name="dex" val="30"/>
-		<set name="wit" val="20"/>
-		<set name="con" val="43"/>
-		<set name="men" val="10"/>
-		<set name="ssCount" val="0"/>
-		<set name="spsCount" val="0"/>
-		<set name="undying" val="true"/>
-		<set name="canBeAttacked" val="false"/>
-		<set name="corpseTime" val="7"/>
-		<set name="noSleepMode" val="false"/>
-		<set name="aggroRange" val="0"/>
-		<set name="canMove" val="true"/>
-		<set name="seedable" val="false"/>
-		<ai>
-			<set name="MoveAroundSocial" val="0"/>
-			<set name="MoveAroundSocial1" val="0"/>
-			<set name="MoveAroundSocial2" val="0"/>
-		</ai>
-		<skills>
-			<skill id="4045" level="1" type="PASSIVE"/>
-			<skill id="4416" level="4" type="PASSIVE"/>
-		</skills>
-	</npc>
-	<npc id="50021" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
+	
+	<npc id="50005" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="SkinNpc"/>
@@ -371,60 +319,7 @@
 			<skill id="4416" level="4" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50022" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
-		<set name="usingServerSideName" val="true"/>
-		<set name="usingServerSideTitle" val="true"/>
-		<set name="type" val="NewBuffer"/>
-		<set name="level" val="70"/>
-		<set name="radius" val="9.0"/>
-		<set name="height" val="16.0"/>
-		<set name="hitTimeFactor" val="0.61"/>
-		<set name="rHand" val="0"/>
-		<set name="lHand" val="0"/>
-		<set name="canSeeThrough" val="true"/>
-		<set name="exp" val="0.0"/>
-		<set name="sp" val="10.0"/>
-		<set name="hp" val="2444.0"/>
-		<set name="mp" val="1493.0"/>
-		<set name="hpRegen" val="11.85"/>
-		<set name="mpRegen" val="2.78"/>
-		<set name="baseAttackRange" val="40"/>
-		<set name="baseDamageRange" val="0;0;80;120"/>
-		<set name="baseRandomDamage" val="7"/>
-		<set name="pAtk" val="694.2"/>
-		<set name="pDef" val="296.1"/>
-		<set name="mAtk" val="468.0"/>
-		<set name="mDef" val="206.28"/>
-		<set name="crit" val="8.0"/>
-		<set name="atkSpd" val="247.42"/>
-		<set name="walkSpd" val="79.2"/>
-		<set name="runSpd" val="118.8"/>
-		<set name="str" val="40"/>
-		<set name="int" val="21"/>
-		<set name="dex" val="30"/>
-		<set name="wit" val="20"/>
-		<set name="con" val="43"/>
-		<set name="men" val="10"/>
-		<set name="ssCount" val="0"/>
-		<set name="spsCount" val="0"/>
-		<set name="undying" val="true"/>
-		<set name="canBeAttacked" val="false"/>
-		<set name="corpseTime" val="7"/>
-		<set name="noSleepMode" val="false"/>
-		<set name="aggroRange" val="0"/>
-		<set name="canMove" val="true"/>
-		<set name="seedable" val="false"/>
-		<ai>
-			<set name="MoveAroundSocial" val="0"/>
-			<set name="MoveAroundSocial1" val="0"/>
-			<set name="MoveAroundSocial2" val="0"/>
-		</ai>
-		<skills>
-			<skill id="4045" level="1" type="PASSIVE"/>
-			<skill id="4416" level="4" type="PASSIVE"/>
-		</skills>
-	</npc>
-	<npc id="50023" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
+	<npc id="50006" idTemplate="31228" name="Hasha" title="dungeon" alias="TvTEventNpc">
 		<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>
 		<set name="type" val="NewBuffer"/>
@@ -563,6 +458,108 @@
 		<set name="spsCount" val="0"/>
 		<set name="undying" val="true"/>
 		<set name="canBeAttacked" val="false"/>
+		<set name="corpseTime" val="7"/>
+		<set name="noSleepMode" val="false"/>
+		<set name="aggroRange" val="0"/>
+		<set name="canMove" val="true"/>
+		<set name="seedable" val="false"/>
+		<ai>
+			<set name="MoveAroundSocial" val="0"/>
+			<set name="MoveAroundSocial1" val="90"/>
+		</ai>
+		<skills>
+			<skill id="4045" level="1" type="PASSIVE"/>
+			<skill id="4416" level="14" type="PASSIVE"/>
+		</skills>
+	</npc>
+	<npc id="50029" name="Orc Sniper" title="" alias="q0101_orc_sniper">
+		<set name="type" val="Monster"/>
+		<set name="level" val="10"/>
+		<set name="radius" val="14.0"/>
+		<set name="height" val="25.0"/>
+		<set name="hitTimeFactor" val="0.8"/>
+		<set name="rHand" val="14"/>
+		<set name="lHand" val="0"/>
+		<set name="canSeeThrough" val="true"/>
+		<set name="exp" val="0.0"/>
+		<set name="sp" val="0.0"/>
+		<set name="hp" val="163.0"/>
+		<set name="mp" val="120.0"/>
+		<set name="hpRegen" val="3.16"/>
+		<set name="mpRegen" val="0.91"/>
+		<set name="baseAttackRange" val="500"/>
+		<set name="baseDamageRange" val="0;0;10;0"/>
+		<set name="baseRandomDamage" val="10"/>
+		<set name="pAtk" val="42.84"/>
+		<set name="pDef" val="61.0"/>
+		<set name="mAtk" val="17.28"/>
+		<set name="mDef" val="45.08"/>
+		<set name="crit" val="8.0"/>
+		<set name="atkSpd" val="221.61"/>
+		<set name="walkSpd" val="44.1"/>
+		<set name="runSpd" val="108.9"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="ssCount" val="0"/>
+		<set name="spsCount" val="0"/>
+		<set name="undying" val="false"/>
+		<set name="canBeAttacked" val="true"/>
+		<set name="corpseTime" val="7"/>
+		<set name="noSleepMode" val="false"/>
+		<set name="aggroRange" val="1000"/>
+		<set name="canMove" val="true"/>
+		<set name="seedable" val="false"/>
+		<ai>
+			<set name="MoveAroundSocial" val="104"/>
+			<set name="MoveAroundSocial1" val="104"/>
+			<set name="MoveAroundSocial2" val="104"/>
+		</ai>
+		<skills>
+			<skill id="4416" level="6" type="PASSIVE"/>
+		</skills>
+	</npc>
+	<npc id="50036" idTemplate="25512" name="Gatekeeper" title="Gatekeeper">
+		<set name="type" val="CustomTeleporter"/>
+			<set name="usingServerSideName" val="true"/>
+		<set name="usingServerSideTitle" val="true"/>
+		<set name="level" val="70"/>
+		<set name="radius" val="8.0"/>
+		<set name="height" val="30.0"/>
+		<set name="hitTimeFactor" val="0.6"/>
+		<set name="rHand" val="0"/>
+		<set name="lHand" val="0"/>
+		<set name="canSeeThrough" val="true"/>
+		<set name="exp" val="0.0"/>
+		<set name="sp" val="0.0"/>
+		<set name="hp" val="2444.0"/>
+		<set name="mp" val="1493.0"/>
+		<set name="hpRegen" val="11.85"/>
+		<set name="mpRegen" val="2.78"/>
+		<set name="baseAttackRange" val="40"/>
+		<set name="baseDamageRange" val="0;0;80;120"/>
+		<set name="baseRandomDamage" val="7"/>
+		<set name="pAtk" val="683.28"/>
+		<set name="pDef" val="296.1"/>
+		<set name="mAtk" val="468.0"/>
+		<set name="mDef" val="206.28"/>
+		<set name="crit" val="8.0"/>
+		<set name="atkSpd" val="247.42"/>
+		<set name="walkSpd" val="49.5"/>
+		<set name="runSpd" val="118.8"/>
+		<set name="str" val="40"/>
+		<set name="int" val="21"/>
+		<set name="dex" val="30"/>
+		<set name="wit" val="20"/>
+		<set name="con" val="43"/>
+		<set name="men" val="10"/>
+		<set name="ssCount" val="0"/>
+		<set name="spsCount" val="0"/>
+		<set name="undying" val="true"/>
+		<set name="canBeAttacked" val="true"/>
 		<set name="corpseTime" val="7"/>
 		<set name="noSleepMode" val="false"/>
 		<set name="aggroRange" val="0"/>

@@ -183,4 +183,10 @@
 		<!-- AIO COMMANDS -->
 	<aCar name="admin_aio" accessLevel="7" params="" desc="Activa el estado AIO completo en el jugador objetivo."/>
 	<aCar name="admin_removeaio" accessLevel="7" params="" desc="Activa el estado AIO Bronce en el jugador objetivo."/>
+	<!-- SPAWN MANAGEMENT -->
+<!-- Custom Spawn Commands -->
+<aCar name="admin_delete_custom" accessLevel="1" params="" desc="Elimina un spawn custom seleccionado."/>
+<aCar name="admin_remove_custom" accessLevel="1" params="" desc="Remueve un spawn custom del mapa."/>
+<aCar name="admin_clean_spawn" accessLevel="1" params="" desc="Limpia todos los spawns custom del área actual."/>
+<aCar name="admin_locc" accessLevel="1" params="" desc="guarda loc en txt."/>
 	</list>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skins systemEnabled="true" transformationTime="4000">
+
+  <!-- 🛡️ Skins de Armaduras Ligeras -->
+  <skin id="1" itemId="9400" skillId="1036" name="draconic_light" displayName="Traje Draconico Ligero" 
+        helmetId="0" chestId="9300" legsId="0" glovesId="0" bootsId="0" />
+
+  <!-- 🔮 Skins para Magos -->
+  <skin id="2" itemId="9401" skillId="1036" name="titanium_robe" displayName="Túnica de Titanio" 
+        helmetId="6842" chestId="9301" legsId="0" glovesId="0" bootsId="0" />
+  
+  <skin id="3" itemId="9402" skillId="1036" name="dark_angel" displayName="Manto de Ángel Oscuro" 
+        helmetId="0" chestId="9302" legsId="0" glovesId="0" bootsId="0" />
+
+  <!-- ⚔️ Skins Generales -->
+  <skin id="4" itemId="9403" skillId="1036" name="armor_set_1" displayName="Conjunto de Armadura 1" 
+        helmetId="0" chestId="9303" legsId="0" glovesId="0" bootsId="0" />
+        
+  <skin id="5" itemId="9404" skillId="1036" name="armor_set_2" displayName="Conjunto de Armadura 2" 
+        helmetId="0" chestId="9304" legsId="0" glovesId="0" bootsId="0" />
+
+</skins>

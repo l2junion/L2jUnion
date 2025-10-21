@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <!-- Zona Queen Ant - Nivel máximo 40, 1 cuenta por IP -->
+    <zone type="Retrincionlvlzone" shape="Cuboid" minZ="-6500" maxZ="332">
+        <stat name="nivelrequerido" val="40" />
+        <stat name="name" val="queen ant" />
+        <stat name="limitOnePerIP" val="true" />
+        <stat name="maxAccountsPerIP" val="1" />
+        <node x="81139" y="147889" />
+        <node x="80904" y="147656" />
+    </zone>
+    
+    <!-- Zona Baium - Nivel máximo 40, 1 cuenta por IP -->
+    <zone type="Retrincionlvlzone" shape="Cuboid" minZ="-5500" maxZ="932">
+        <stat name="nivelrequerido" val="40" />
+        <stat name="name" val="baium" />
+        <stat name="limitOnePerIP" val="true" />
+        <stat name="maxAccountsPerIP" val="1" />
+        <node x="186139" y="30598" />
+        <node x="183988" y="14244" />
+    </zone>
+    
+    <!-- Ejemplo: Zona que permite 2 cuentas por IP -->
+    <zone type="Retrincionlvlzone" shape="Cuboid" minZ="-5500" maxZ="932">
+        <stat name="nivelrequerido" val="50" />
+        <stat name="name" val="zona especial" />
+        <stat name="limitOnePerIP" val="true" />
+        <stat name="maxAccountsPerIP" val="2" />
+        <node x="100000" y="100000" />
+        <node x="101000" y="101000" />
+    </zone>
+    
+    <!-- Ejemplo: Zona sin límite por IP -->
+    <zone type="Retrincionlvlzone" shape="Cuboid" minZ="-5500" maxZ="932">
+        <stat name="nivelrequerido" val="30" />
+        <stat name="name" val="zona libre" />
+        <stat name="limitOnePerIP" val="false" />
+        <node x="50000" y="50000" />
+        <node x="51000" y="51000" />
+    </zone>
+</list>

@@ -342,6 +342,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2006-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="730" type="EtcItem" name="Scroll: Enchant Armor (Grade A)">
 		<set name="default_action" val="skill_reduce" />
@@ -352,6 +353,7 @@
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
 		<set name="item_skill" val="2007-1" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="731" type="EtcItem" name="Crystal Scroll: Enchant Weapon (Grade A)">
 		<set name="default_action" val="skill_reduce" />
@@ -361,6 +363,7 @@
 		<set name="price" val="240000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="732" type="EtcItem" name="Crystal Scroll: Enchant Armor (Grade A)">
 		<set name="default_action" val="skill_reduce" />
@@ -370,6 +373,7 @@
 		<set name="price" val="240000" />
 		<set name="is_oly_restricted" val="true" />
 		<set name="handler" val="EnchantScrolls" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="733" type="EtcItem" name="Endeavor Potion">
 		<set name="default_action" val="skill_reduce" />

@@ -79,3 +79,36 @@ el hander es <set name="handler" val="ComboBoxHandler" />
 
 Agregado Formulas !
 Agregado C:\Users\eltet\Desktop\trabajo l2junion\Publico\L2jUnion\gameserver\data\Mods_L2jUnion\scrips_npc y ahi pones los npc para q peguen
+
+
+12/10/2025
+Se agrego nuevos comandos !
+agrear esto
+<!-- Custom Spawn Commands -->
+<aCar name="admin_delete_custom" accessLevel="1" params="" desc="Elimina un spawn custom seleccionado."/>
+<aCar name="admin_remove_custom" accessLevel="1" params="" desc="Remueve un spawn custom del mapa."/>
+<aCar name="admin_clean_spawn" accessLevel="1" params="" desc="Limpia todos los spawns custom del área actual."/>
+
+en adminCommands.xml
+
+
+se elimino la tabla custom_spawn y se puso por xml 
+los npc puestos en esa tabla solamente se borra difinitivo con esos comandos nuevos de adminCommands
+
+
+//SE agrego comandos para activar y desactivar queen ant !
+es decir si lo activas la queen ant queda estilo c4 ataca de su lugar y no se mueve!
+si lo desactivan la queen ant los seguira para atacarlos
+
+
+Tambien se fixeo Dressme por item.
+
+systema vip mejorado
+
+
+
+se agrego gk global!
+
+
+tambien se fixeo systema enchat ! ahora pueden desidir a que punto seguro puede volver
+tras fayar con blessed

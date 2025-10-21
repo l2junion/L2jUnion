@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <evolution levelRequired="76" maxEvolutions="3">
+        <skill id="1001" level="1" maxLevel="5"/> <!-- Ejemplo: Fuerza aumentada -->
+        <skill id="1002" level="1" maxLevel="3"/> <!-- Ejemplo: Resistencia mejorada -->
+        <skill id="1003" level="1" maxLevel="3"/> <!-- Ejemplo: Velocidad de ataque -->
+    </evolution>
+</list>

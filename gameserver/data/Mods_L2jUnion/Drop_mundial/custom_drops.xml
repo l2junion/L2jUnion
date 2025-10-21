@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <!-- Custom drops for specific NPCs -->
+    
+    <npc id="22225">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22204">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22222">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22227">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22219">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22201">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22212">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22220">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22224">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22214">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+    
+    <npc id="22209">
+        <drop itemId="951" min="1" max="1" chance="85.0"/>
+        <drop itemId="947" min="1" max="1" chance="80.0"/>
+        <drop itemId="952" min="1" max="1" chance="75.0"/>
+        <drop itemId="948" min="1" max="1" chance="70.0"/>
+        <drop itemId="6574" min="1" max="1" chance="45.0"/>
+        <drop itemId="6572" min="1" max="1" chance="40.0"/>
+        <drop itemId="6571" min="1" max="1" chance="35.0"/>
+        <drop itemId="6573" min="1" max="1" chance="30.0"/>
+        <drop itemId="729" min="1" max="1" chance="90.0"/>
+        <drop itemId="959" min="1" max="1" chance="85.0"/>
+        <drop itemId="730" min="1" max="1" chance="80.0"/>
+        <drop itemId="960" min="1" max="1" chance="75.0"/>
+        <drop itemId="6570" min="1" max="1" chance="25.0"/>
+        <drop itemId="6578" min="1" max="1" chance="20.0"/>
+        <drop itemId="6569" min="1" max="1" chance="15.0"/>
+        <drop itemId="6577" min="1" max="1" chance="10.0"/>
+        <drop itemId="961" min="1" max="1" chance="5.0"/>
+        <drop itemId="731" min="1" max="1" chance="5.0"/>
+        <drop itemId="962" min="1" max="1" chance="5.0"/>
+        <drop itemId="732" min="1" max="1" chance="5.0"/>
+    </npc>
+</list>
