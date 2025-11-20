@@ -7,7 +7,7 @@ Cached 10 KeyPairs for RSA communication.
 Stored 20 keys for Blowfish communication.
 --------------------------------------------------------=[ GameServerManager ]
 Loaded 127 server names.
-Loaded 0 registered gameserver(s).
+Loaded 1 registered gameserver(s).
 Cached 10 RSA keys for gameserver communication.
 -----------------------------------------------------------------=[ Ban List ]
 Loaded 0 banned IP(s).

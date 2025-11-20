@@ -2,6 +2,6 @@ L2jUnion
 
 Server Files 
 
-(Revision 20) [NO IP BINDING] 1.0.34
+(Revision 21) [NO IP BINDING] 1.0.34
 
-Fecha de actualizacion 21/10/2025 Horas 19:45 argentina
+Fecha de actualizacion 19/11/2025 Horas 21:37 argentina

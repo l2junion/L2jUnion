@@ -1,0 +1,9 @@
+[2025-10-28 23:03:22] [PROCESS_EXIT] Proceso terminado con código: 3221225786
+[2025-10-28 23:03:22] [AUTO_RESTART] Reiniciando... Intento 1/10
+[2025-10-30 15:29:06] [PROCESS_EXIT] Proceso terminado con código: 1
+[2025-10-30 15:29:06] [AUTO_RESTART] Reiniciando... Intento 1/10
+[2025-11-01 05:14:08] [PROCESS_EXIT] Proceso terminado con código: 3221225786
+[2025-11-01 05:14:08] [AUTO_RESTART] Reiniciando... Intento 1/10
+[2025-11-02 14:28:50] [ERROR] java.sql.SQLNonTransientConnectionException: Socket fail to connect to host:address=(host=localhost)(port=3306)(type=primary). Connection refused: getsockopt
+[2025-11-02 14:28:50] [ERROR] Caused by: java.net.ConnectException: Connection refused: getsockopt
+[2025-11-02 14:28:50] [ERROR] [ERROR] (MariaDB-pool-appender-1) error adding connection to pool - java.sql.SQLNonTransientConnectionException: Socket fail to connect to host:address=(host=localhost)(port=3306)(type=primary). Connection refused: getsockopt

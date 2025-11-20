@@ -1324,25 +1324,4 @@
 			<player Charges="#numCharges" /> <!-- Level 2 3 Focused Force charge required. -->
 		</cond>
 	</skill>
-<skill id="504" levels="1" name="Shield of Faith">
-    <set name="magicLevel" val="80" />
-    <set name="mpConsume" val="150" />
-    <set name="target" val="PARTY" />
-    <set name="skillType" val="BUFF" />
-    <set name="operateType" val="ACTIVE" />
-    <set name="castRange" val="2000" />
-    <set name="skillRadius" val="1000" />
-    <set name="hitTime" val="1500" />
-    <set name="reuseDelay" val="60000" />
-    <set name="buffDuration" val="30000" />
-    <set name="aggroPoints" val="500" />
-    
-    <for>
-        <effect name="ShieldOfFaith" time="30" count="1" val="50" stackOrder="504" stackType="ShieldOfFaithBuff">
-			<add stat="pDef" val="1800" />
-			<add stat="mDef" val="1350" />
-		    <addMul stat="cancelVuln" val="80" />
-        </effect>
-    </for>
-</skill>
 </list>

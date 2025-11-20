@@ -3,3 +3,7 @@ SI  te sale como virus el iniciando_server.exe es porque tiene el registro de se
 
 
 PEGAR LA CARPETA LIBS Y PONER COPIAR Y REMPLAZAR CADA VES Q SE ACTULIZA
+
+
+Deven remplazar el .jar y cambiar el gameserver\config\logging.properties si no no les andara paras los q 
+ya tienen la data y para los que recien adquieren la data y sorce ese cambio no es necesario

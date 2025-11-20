@@ -9,7 +9,8 @@ FakePcsTable: Loaded 1 NPC to PC templates.
 Updated characters online status.
 Cleaned 0 elements from database.
 Cleaned 0 expired timestamps from database.
-Initializing 102912 objectIds pool, with 70 used ids.
+Initializing 102912 objectIds pool, with 9 used ids.
+Loaded custom drops for 11 NPCs.
 --------------------------------------------------------------------=[ Cache ]
 Loaded 0 crests.
 --------------------------------------------------------------------=[ World ]
@@ -17,7 +18,7 @@ World grid (176 by 256) is now set up.
 Loaded 0 announcements.
 Loaded 3 server variables.
 -------------------------------------------------------------------=[ Skills ]
-SkillTable: Loaded 29755 skills.
+SkillTable: Loaded 29742 skills.
 Loaded 117 fishing skills.
 Loaded 64 clan skills.
 Loaded 14550 enchant skills.
@@ -25,68 +26,3 @@ Loaded 14550 enchant skills.
 Loaded items.
 Loaded 13 summon items.
 Loaded 180 hennas.
-Loaded 687 buyLists.
-Loaded 111 multisell.
-Loaded 871 recipes.
-Loaded 51 armor sets.
-Loaded 270 fish.
-Loaded 334 spellbooks.
-Loaded 39 Soul Crystals data and 124 NPCs data.
-Loaded 4 sets of augmentation stats.
-Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-Loaded 2 cursed weapons.
-Loaded 9176 icons.
--------------------------------------------------------------------=[ Admins ]
-Loaded 10 access levels.
-Loaded 113 admin command rights.
-Loaded 0 bookmarks.
-Loaded 0 petitions.
----------------------------------------------------------------=[ Characters ]
-Loaded 89 player classes templates.
-Loaded 9 player infos.
-Loaded 81 player levels.
-Loaded 1 RaidPoints entries.
-Loaded 29 healSps entries.
-Loaded 92 restart areas and 36 restart points.
-AIOTaskManager: Iniciado con verificación cada 60 segundos.
----------------------------------------------------------=[ Community server ]
-Loaded 0 forums.
---------------------------------------------------------------------=[ Clans ]
-Loaded 0 clans.
-----------------------------------------------------=[ Geodata & Pathfinding ]
-Region file 19_11.l2j can be corrupted, remaining 2 bytes to read.
-Region file 20_11.l2j can be corrupted, remaining 2 bytes to read.
-Loaded 139 L2J region files.
---------------------------------------------------------------------=[ Zones ]
-Loaded 24 zones classes and total 1019 zones.
---------------------------------------------------------------------=[ Doors ]
-Loaded 547 doors templates.
------------------------------------------------------=[ Castles & Clan Halls ]
-Loaded 9 castles.
-Loaded 73 clan halls decos.
-Loaded 44 clan halls and 6 siegable clan halls.
-Loaded 3 evolution skills
-------------------------------------------------------------=[ Task Managers ]
-Restored 0 items on ground.
---------------------------------------------------------------=[ Seven Signs ]
-Currently on Quest Event Results period.
-The Seal of Avarice remains unclaimed.
-The Seal of Gnosis remains unclaimed.
-The Seal of Strife remains unclaimed.
-The Seven Signs competition will end in a tie this week.
-Next Seven Signs period is already computed.
-Next Seven Signs period begins in 0 days, 0 hours and 0 mins.
-The Seal of Avarice remains unclaimed.
-The Seal of Gnosis remains unclaimed.
-The Seal of Strife remains unclaimed.
-The No Cabal have won the competition with 0 points.
-Seven Signs Festival initialization was bypassed due to Seal Validation being under effect.
-------------------------------------------------------------=[ Manor Manager ]
-Loaded 121 manor areas.
-Loaded 205 spawn data.
-Loaded 246 seeds.
----------------------------------------------------------------------=[ NPCs ]
-Loaded 60 available buffs.
-Loaded 6507 NPC templates.
-Loaded 132 walking routes.
-Loaded 29 static objects.

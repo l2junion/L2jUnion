@@ -522,7 +522,7 @@
 			<skill id="4416" level="6" type="PASSIVE"/>
 		</skills>
 	</npc>
-	<npc id="50036" idTemplate="25512" name="Gatekeeper" title="Gatekeeper">
+	<npc id="50017" idTemplate="25512" name="Gatekeeper" title="Gatekeeper">
 		<set name="type" val="CustomTeleporter"/>
 			<set name="usingServerSideName" val="true"/>
 		<set name="usingServerSideTitle" val="true"/>

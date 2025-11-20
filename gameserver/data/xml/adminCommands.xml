@@ -189,4 +189,4 @@
 <aCar name="admin_remove_custom" accessLevel="1" params="" desc="Remueve un spawn custom del mapa."/>
 <aCar name="admin_clean_spawn" accessLevel="1" params="" desc="Limpia todos los spawns custom del área actual."/>
 <aCar name="admin_locc" accessLevel="1" params="" desc="guarda loc en txt."/>
-	</list>
+</list>
